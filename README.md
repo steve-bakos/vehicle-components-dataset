@@ -8,14 +8,13 @@ This dataset contains information about vehicle interior components across multi
 data_public/
 ├── dataset/
 │   ├── brands.json           # List of all brands
-│   └── [Brand]/
-│       ├── models.json       # List of models for this brand
+│   └── [Brand]/              # Browse directories for available models
 │       └── [Model]/
 │           ├── components.json      # List of components
 │           └── image_sources.json   # Image source metadata
 └── ground_truth/
     └── [Brand]/
-        └── [Model].json      # Ground truth annotations
+        └── [Model]_annotations.json # Ground truth annotations
 ```
 
 ## Image Sources
