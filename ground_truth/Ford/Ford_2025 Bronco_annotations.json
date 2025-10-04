@@ -1,0 +1,519 @@
+{
+  "brand": "Ford",
+  "model": "2025 Bronco",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "A.Switching Cruise Control On and Off",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "B.Instrument cluster Overview",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "C.Using the Instrument Cluster Display Controls",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "D.Center Display Overview",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Identifying the Climate Control Unit",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Applying the Electric Parking Brake",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "H.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Exterior Lighting control",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        }
+      ],
+      "landmarks": "B.Instrument cluster Overview, I.Exterior Lighting control, C.Using the Instrument Cluster Display Controls"
+    },
+    {
+      "id": 2,
+      "text": "B.Instrument cluster Overview",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "A.Switching Cruise Control On and Off",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "C.Using the Instrument Cluster Display Controls",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "D.Center Display Overview",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Identifying the Climate Control Unit",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Applying the Electric Parking Brake",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "H.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "I.Exterior Lighting control",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "A.Switching Cruise Control On and Off, C.Using the Instrument Cluster Display Controls, I.Exterior Lighting control"
+    },
+    {
+      "id": 3,
+      "text": "C.Using the Instrument Cluster Display Controls",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Switching Cruise Control On and Off",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "B.Instrument cluster Overview",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "D.Center Display Overview",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Identifying the Climate Control Unit",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Applying the Electric Parking Brake",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "H.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "I.Exterior Lighting control",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "B.Instrument cluster Overview, I.Exterior Lighting control, A.Switching Cruise Control On and Off"
+    },
+    {
+      "id": 4,
+      "text": "D.Center Display Overview",
+      "size": "Very Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "A.Switching Cruise Control On and Off",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Instrument cluster Overview",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "C.Using the Instrument Cluster Display Controls",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Identifying the Climate Control Unit",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "G.Applying the Electric Parking Brake",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "H.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "I.Exterior Lighting control",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "B.Instrument cluster Overview, F.Identifying the Climate Control Unit, C.Using the Instrument Cluster Display Controls"
+    },
+    {
+      "id": 5,
+      "text": "E.Opening the Glove Compartment",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Switching Cruise Control On and Off",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Instrument cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Using the Instrument Cluster Display Controls",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "D.Center Display Overview",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "F.Identifying the Climate Control Unit",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "G.Applying the Electric Parking Brake",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "H.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "I.Exterior Lighting control",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "D.Center Display Overview, H.Sitting in the Correct Position, F.Identifying the Climate Control Unit"
+    },
+    {
+      "id": 6,
+      "text": "F.Identifying the Climate Control Unit",
+      "size": "Medium",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Switching Cruise Control On and Off",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Instrument cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Using the Instrument Cluster Display Controls",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "D.Center Display Overview",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "G.Applying the Electric Parking Brake",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "H.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "I.Exterior Lighting control",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "D.Center Display Overview, H.Sitting in the Correct Position, E.Opening the Glove Compartment"
+    },
+    {
+      "id": 7,
+      "text": "G.Applying the Electric Parking Brake",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Switching Cruise Control On and Off",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "B.Instrument cluster Overview",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "C.Using the Instrument Cluster Display Controls",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Center Display Overview",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Identifying the Climate Control Unit",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "H.Sitting in the Correct Position",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "I.Exterior Lighting control",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        }
+      ],
+      "landmarks": "I.Exterior Lighting control, H.Sitting in the Correct Position, F.Identifying the Climate Control Unit"
+    },
+    {
+      "id": 8,
+      "text": "H.Sitting in the Correct Position",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "A.Switching Cruise Control On and Off",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Instrument cluster Overview",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "C.Using the Instrument Cluster Display Controls",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Center Display Overview",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Identifying the Climate Control Unit",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "G.Applying the Electric Parking Brake",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "I.Exterior Lighting control",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "G.Applying the Electric Parking Brake, I.Exterior Lighting control, F.Identifying the Climate Control Unit"
+    },
+    {
+      "id": 9,
+      "text": "I.Exterior Lighting control",
+      "size": "Medium",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Switching Cruise Control On and Off",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "B.Instrument cluster Overview",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "C.Using the Instrument Cluster Display Controls",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Center Display Overview",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Identifying the Climate Control Unit",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "G.Applying the Electric Parking Brake",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "H.Sitting in the Correct Position",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "A.Switching Cruise Control On and Off, G.Applying the Electric Parking Brake, F.Identifying the Climate Control Unit"
+    }
+  ]
+}

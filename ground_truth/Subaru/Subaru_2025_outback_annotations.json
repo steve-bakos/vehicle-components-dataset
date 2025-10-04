@@ -1,0 +1,1059 @@
+{
+  "brand": "Subaru",
+  "model": "2025_outback",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "Power window switches",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Remote control mirror switch",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Seat position memory buttons",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Camera for Driver Monitoring System",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Front view monitor switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Electronic parking brake switch",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Hands-free Power Rear Gate off switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener button",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Seat position memory buttons, Remote control mirror switch, Hood release knob"
+    },
+    {
+      "id": 2,
+      "text": "Remote control mirror switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Power window switches",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Seat position memory buttons",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Camera for Driver Monitoring System",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Front view monitor switch",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Electronic parking brake switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Hands-free Power Rear Gate off switch",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener button",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Seat position memory buttons, Hood release knob, Power window switches"
+    },
+    {
+      "id": 3,
+      "text": "Seat position memory buttons",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Power window switches",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Remote control mirror switch",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Camera for Driver Monitoring System",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Front view monitor switch",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Electronic parking brake switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Hands-free Power Rear Gate off switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener button",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Combination meter, Hood release knob, Tilt/Telescopic steering"
+    },
+    {
+      "id": 4,
+      "text": "Combination meter",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "Power window switches",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Remote control mirror switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Seat position memory buttons",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Camera for Driver Monitoring System",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Front view monitor switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Electronic parking brake switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hands-free Power Rear Gate off switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener button",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Camera for Driver Monitoring System, Tilt/Telescopic steering, Hazard warning flasher switch"
+    },
+    {
+      "id": 5,
+      "text": "Hazard warning flasher switch",
+      "size": "Very Small",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "Power window switches",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Remote control mirror switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Seat position memory buttons",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Camera for Driver Monitoring System",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Front view monitor switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Electronic parking brake switch",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hands-free Power Rear Gate off switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener button",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Camera for Driver Monitoring System, Electronic parking brake switch, Combination meter"
+    },
+    {
+      "id": 6,
+      "text": "Camera for Driver Monitoring System",
+      "size": "Small",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "Power window switches",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Remote control mirror switch",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Seat position memory buttons",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Front view monitor switch",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Electronic parking brake switch",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hands-free Power Rear Gate off switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener button",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Combination meter, Front view monitor switch, Hazard warning flasher switch"
+    },
+    {
+      "id": 7,
+      "text": "Front view monitor switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Power window switches",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Remote control mirror switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Seat position memory buttons",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Camera for Driver Monitoring System",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Electronic parking brake switch",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Hands-free Power Rear Gate off switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener button",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Camera for Driver Monitoring System, Electronic parking brake switch, Hood release knob"
+    },
+    {
+      "id": 8,
+      "text": "Electronic parking brake switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Power window switches",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Remote control mirror switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Seat position memory buttons",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Camera for Driver Monitoring System",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Front view monitor switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hands-free Power Rear Gate off switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener button",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Camera for Driver Monitoring System, Front view monitor switch, Tilt/Telescopic steering"
+    },
+    {
+      "id": 9,
+      "text": "Tilt/Telescopic steering",
+      "size": "Medium",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Power window switches",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Remote control mirror switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Seat position memory buttons",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Camera for Driver Monitoring System",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Front view monitor switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Electronic parking brake switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Hands-free Power Rear Gate off switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener button",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Combination meter, Hood release knob, Seat position memory buttons"
+    },
+    {
+      "id": 10,
+      "text": "Hood release knob",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Power window switches",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Remote control mirror switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Seat position memory buttons",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Camera for Driver Monitoring System",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Front view monitor switch",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Electronic parking brake switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hands-free Power Rear Gate off switch",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Trunk lid opener button",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        }
+      ],
+      "landmarks": "Seat position memory buttons, Trunk lid opener button, Illumination brightness control dial"
+    },
+    {
+      "id": 11,
+      "text": "Hands-free Power Rear Gate off switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Power window switches",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Remote control mirror switch",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Seat position memory buttons",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Camera for Driver Monitoring System",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Front view monitor switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Electronic parking brake switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Trunk lid opener button",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Combination meter, Hood release knob, Illumination brightness control dial"
+    },
+    {
+      "id": 12,
+      "text": "Illumination brightness control dial",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Power window switches",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Remote control mirror switch",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Seat position memory buttons",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Camera for Driver Monitoring System",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Front view monitor switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Electronic parking brake switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Hands-free Power Rear Gate off switch",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener button",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "Combination meter, Hood release knob, Trunk lid opener button"
+    },
+    {
+      "id": 13,
+      "text": "Trunk lid opener button",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Power window switches",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Remote control mirror switch",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Seat position memory buttons",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Camera for Driver Monitoring System",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Front view monitor switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Electronic parking brake switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Hands-free Power Rear Gate off switch",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Combination meter, Hood release knob, Remote control mirror switch"
+    }
+  ]
+}

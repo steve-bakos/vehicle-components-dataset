@@ -1,0 +1,906 @@
+{
+  "brand": "Acura",
+  "model": "2025 INTEGRA",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "System Indicators",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "Gauges",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": true
+        },
+        {
+          "target": "Driver Information Interface",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": true
+        },
+        {
+          "target": "Audio System",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "ENGINE START/STOP Button",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Hazard Warning Button",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Front Seat Heater Buttons",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Climate Control System",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Rear Defogger",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Heated Door Mirror Button",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Passenger Airbag Off Indicator",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "(Vehicle Stability Assist™ (VSA®) System OFF) Button",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Driver Information Interface, Audio System, Gauges"
+    },
+    {
+      "id": 2,
+      "text": "Gauges",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "System Indicators",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": true
+        },
+        {
+          "target": "Driver Information Interface",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "Audio System",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "ENGINE START/STOP Button",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Hazard Warning Button",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Front Seat Heater Buttons",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Climate Control System",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Rear Defogger",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Heated Door Mirror Button",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Passenger Airbag Off Indicator",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "(Vehicle Stability Assist™ (VSA®) System OFF) Button",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "System Indicators, ENGINE START/STOP Button, Audio System"
+    },
+    {
+      "id": 3,
+      "text": "Driver Information Interface",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "System Indicators",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": true
+        },
+        {
+          "target": "Gauges",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "Audio System",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "ENGINE START/STOP Button",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Hazard Warning Button",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Front Seat Heater Buttons",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Climate Control System",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Rear Defogger",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Heated Door Mirror Button",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Passenger Airbag Off Indicator",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "(Vehicle Stability Assist™ (VSA®) System OFF) Button",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "System Indicators, ENGINE START/STOP Button, Audio System"
+    },
+    {
+      "id": 4,
+      "text": "Audio System",
+      "size": "Very Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "System Indicators",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Gauges",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Driver Information Interface",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "ENGINE START/STOP Button",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hazard Warning Button",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Front Seat Heater Buttons",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Climate Control System",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Rear Defogger",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Heated Door Mirror Button",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Passenger Airbag Off Indicator",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "(Vehicle Stability Assist™ (VSA®) System OFF) Button",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "System Indicators, Hazard Warning Button, Gauges"
+    },
+    {
+      "id": 5,
+      "text": "ENGINE START/STOP Button",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "System Indicators",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Gauges",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Driver Information Interface",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Audio System",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hazard Warning Button",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Front Seat Heater Buttons",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Climate Control System",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Rear Defogger",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Heated Door Mirror Button",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Passenger Airbag Off Indicator",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "(Vehicle Stability Assist™ (VSA®) System OFF) Button",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Gauges, Front Seat Heater Buttons, Hazard Warning Button"
+    },
+    {
+      "id": 6,
+      "text": "Hazard Warning Button",
+      "size": "Small",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "System Indicators",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Gauges",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Driver Information Interface",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Audio System",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "ENGINE START/STOP Button",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Front Seat Heater Buttons",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Climate Control System",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Rear Defogger",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Heated Door Mirror Button",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Passenger Airbag Off Indicator",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "(Vehicle Stability Assist™ (VSA®) System OFF) Button",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Audio System, Front Seat Heater Buttons, ENGINE START/STOP Button"
+    },
+    {
+      "id": 7,
+      "text": "Front Seat Heater Buttons",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "System Indicators",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Gauges",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Driver Information Interface",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Audio System",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "ENGINE START/STOP Button",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Hazard Warning Button",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Climate Control System",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Rear Defogger",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Heated Door Mirror Button",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Passenger Airbag Off Indicator",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "(Vehicle Stability Assist™ (VSA®) System OFF) Button",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Hazard Warning Button, Climate Control System, ENGINE START/STOP Button"
+    },
+    {
+      "id": 8,
+      "text": "Climate Control System",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "System Indicators",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Gauges",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Driver Information Interface",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Audio System",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "ENGINE START/STOP Button",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hazard Warning Button",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Front Seat Heater Buttons",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Rear Defogger",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Heated Door Mirror Button",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Passenger Airbag Off Indicator",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "(Vehicle Stability Assist™ (VSA®) System OFF) Button",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Hazard Warning Button, Passenger Airbag Off Indicator, Rear Defogger"
+    },
+    {
+      "id": 9,
+      "text": "Rear Defogger",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "System Indicators",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Gauges",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Driver Information Interface",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Audio System",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "ENGINE START/STOP Button",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hazard Warning Button",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Front Seat Heater Buttons",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Climate Control System",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Heated Door Mirror Button",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "Passenger Airbag Off Indicator",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "(Vehicle Stability Assist™ (VSA®) System OFF) Button",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Hazard Warning Button, Climate Control System, Passenger Airbag Off Indicator"
+    },
+    {
+      "id": 10,
+      "text": "Heated Door Mirror Button",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "System Indicators",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Gauges",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Driver Information Interface",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Audio System",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "ENGINE START/STOP Button",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hazard Warning Button",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Front Seat Heater Buttons",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Climate Control System",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Rear Defogger",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "Passenger Airbag Off Indicator",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "(Vehicle Stability Assist™ (VSA®) System OFF) Button",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Hazard Warning Button, Climate Control System, Passenger Airbag Off Indicator"
+    },
+    {
+      "id": 11,
+      "text": "Passenger Airbag Off Indicator",
+      "size": "Small",
+      "frequency": "Rare",
+      "relationships": [
+        {
+          "target": "System Indicators",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Gauges",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Driver Information Interface",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Audio System",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "ENGINE START/STOP Button",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hazard Warning Button",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Front Seat Heater Buttons",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Climate Control System",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Rear Defogger",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Heated Door Mirror Button",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "(Vehicle Stability Assist™ (VSA®) System OFF) Button",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Climate Control System, Audio System, Front Seat Heater Buttons"
+    },
+    {
+      "id": 12,
+      "text": "(Vehicle Stability Assist™ (VSA®) System OFF) Button",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "System Indicators",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Gauges",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Driver Information Interface",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Audio System",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "ENGINE START/STOP Button",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Hazard Warning Button",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Front Seat Heater Buttons",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Climate Control System",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Rear Defogger",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Heated Door Mirror Button",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Passenger Airbag Off Indicator",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "System Indicators, Passenger Airbag Off Indicator, ENGINE START/STOP Button"
+    }
+  ]
+}

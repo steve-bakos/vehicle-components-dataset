@@ -1,0 +1,240 @@
+{
+  "brand": "Lincoln",
+  "model": "2024 Corsair",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "A.Instrument Cluster Overview",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "B.Status Bar",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "C.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Push Button Ignition Switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "F.Exterior Lighting Control",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "B.Status Bar, F.Exterior Lighting Control, E.Push Button Ignition Switch"
+    },
+    {
+      "id": 2,
+      "text": "B.Status Bar",
+      "size": "Very Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "C.Opening the Glove Compartment",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "D.Switching the Hazard Flashers On and Off",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "E.Push Button Ignition Switch",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "F.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "A.Instrument Cluster Overview, E.Push Button Ignition Switch, C.Opening the Glove Compartment"
+    },
+    {
+      "id": 3,
+      "text": "C.Opening the Glove Compartment",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Status Bar",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "D.Switching the Hazard Flashers On and Off",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "E.Push Button Ignition Switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "F.Exterior Lighting Control",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "B.Status Bar, D.Switching the Hazard Flashers On and Off, E.Push Button Ignition Switch"
+    },
+    {
+      "id": 4,
+      "text": "D.Switching the Hazard Flashers On and Off",
+      "size": "Small",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Status Bar",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "C.Opening the Glove Compartment",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "E.Push Button Ignition Switch",
+          "proximity": "Adjacent",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "F.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "B.Status Bar, E.Push Button Ignition Switch, C.Opening the Glove Compartment"
+    },
+    {
+      "id": 5,
+      "text": "E.Push Button Ignition Switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Status Bar",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "C.Opening the Glove Compartment",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Switching the Hazard Flashers On and Off",
+          "proximity": "Adjacent",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "F.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "B.Status Bar, F.Exterior Lighting Control, D.Switching the Hazard Flashers On and Off"
+    },
+    {
+      "id": 6,
+      "text": "F.Exterior Lighting Control",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "B.Status Bar",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "C.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "E.Push Button Ignition Switch",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "A.Instrument Cluster Overview, D.Switching the Hazard Flashers On and Off, E.Push Button Ignition Switch"
+    }
+  ]
+}

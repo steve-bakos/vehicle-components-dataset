@@ -1,0 +1,1224 @@
+{
+  "brand": "Nissan",
+  "model": "2016 370Z",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "1.Ventilator",
+      "size": "Medium",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "2.Center display and multi-function control panel or Instrument pocket",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "3.Front passenger air bag status light",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "4.Front passenger supplemental air bag",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "5.Fuse box cover",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Push-button ignition switch",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "7.Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Seat heater switch or Climate controlled seat switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Soft top operating switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.SynchroRev Match mode switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Heater and air conditioner",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Audio system",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "13.Power outlet",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "14.Glove box",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "2.Center display and multi-function control panel or Instrument pocket, 6.Push-button ignition switch, 4.Front passenger supplemental air bag"
+    },
+    {
+      "id": 2,
+      "text": "2.Center display and multi-function control panel or Instrument pocket",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "1.Ventilator",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "3.Front passenger air bag status light",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "4.Front passenger supplemental air bag",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "5.Fuse box cover",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Push-button ignition switch",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "7.Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "8.Seat heater switch or Climate controlled seat switch",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "9.Soft top operating switch",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "10.SynchroRev Match mode switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Heater and air conditioner",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "12.Audio system",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "13.Power outlet",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "14.Glove box",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "4.Front passenger supplemental air bag, 1.Ventilator, 12.Audio system"
+    },
+    {
+      "id": 3,
+      "text": "3.Front passenger air bag status light",
+      "size": "Very Small",
+      "frequency": "Rare",
+      "relationships": [
+        {
+          "target": "1.Ventilator",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Center display and multi-function control panel or Instrument pocket",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "4.Front passenger supplemental air bag",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "5.Fuse box cover",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Push-button ignition switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "7.Hazard warning flasher switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "8.Seat heater switch or Climate controlled seat switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "9.Soft top operating switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "10.SynchroRev Match mode switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "11.Heater and air conditioner",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "12.Audio system",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "13.Power outlet",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "14.Glove box",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "2.Center display and multi-function control panel or Instrument pocket, 12.Audio system, 6.Push-button ignition switch"
+    },
+    {
+      "id": 4,
+      "text": "4.Front passenger supplemental air bag",
+      "size": "Very Large",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "1.Ventilator",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Center display and multi-function control panel or Instrument pocket",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "3.Front passenger air bag status light",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "5.Fuse box cover",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Push-button ignition switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "7.Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "8.Seat heater switch or Climate controlled seat switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "9.Soft top operating switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "10.SynchroRev Match mode switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "11.Heater and air conditioner",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "12.Audio system",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Power outlet",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "14.Glove box",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        }
+      ],
+      "landmarks": "2.Center display and multi-function control panel or Instrument pocket, 14.Glove box, 3.Front passenger air bag status light"
+    },
+    {
+      "id": 5,
+      "text": "5.Fuse box cover",
+      "size": "Small",
+      "frequency": "Rare",
+      "relationships": [
+        {
+          "target": "1.Ventilator",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "2.Center display and multi-function control panel or Instrument pocket",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "3.Front passenger air bag status light",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "4.Front passenger supplemental air bag",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "6.Push-button ignition switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "8.Seat heater switch or Climate controlled seat switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Soft top operating switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.SynchroRev Match mode switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Heater and air conditioner",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "12.Audio system",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "13.Power outlet",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "14.Glove box",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "1.Ventilator, 7.Hazard warning flasher switch, 11.Heater and air conditioner"
+    },
+    {
+      "id": 6,
+      "text": "6.Push-button ignition switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Ventilator",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "2.Center display and multi-function control panel or Instrument pocket",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "3.Front passenger air bag status light",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "4.Front passenger supplemental air bag",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "5.Fuse box cover",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "7.Hazard warning flasher switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Seat heater switch or Climate controlled seat switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Soft top operating switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.SynchroRev Match mode switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Heater and air conditioner",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Audio system",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "13.Power outlet",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "14.Glove box",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "1.Ventilator, 12.Audio system, 3.Front passenger air bag status light"
+    },
+    {
+      "id": 7,
+      "text": "7.Hazard warning flasher switch",
+      "size": "Very Small",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "1.Ventilator",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Center display and multi-function control panel or Instrument pocket",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "3.Front passenger air bag status light",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "4.Front passenger supplemental air bag",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "5.Fuse box cover",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Push-button ignition switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "8.Seat heater switch or Climate controlled seat switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "9.Soft top operating switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.SynchroRev Match mode switch",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Heater and air conditioner",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "12.Audio system",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "13.Power outlet",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "14.Glove box",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "11.Heater and air conditioner, 8.Seat heater switch or Climate controlled seat switch, 13.Power outlet"
+    },
+    {
+      "id": 8,
+      "text": "8.Seat heater switch or Climate controlled seat switch",
+      "size": "Very Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "1.Ventilator",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Center display and multi-function control panel or Instrument pocket",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "3.Front passenger air bag status light",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "4.Front passenger supplemental air bag",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "5.Fuse box cover",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Push-button ignition switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "7.Hazard warning flasher switch",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "9.Soft top operating switch",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "10.SynchroRev Match mode switch",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "11.Heater and air conditioner",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Audio system",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "13.Power outlet",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "14.Glove box",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "7.Hazard warning flasher switch, 9.Soft top operating switch, 10.SynchroRev Match mode switch"
+    },
+    {
+      "id": 9,
+      "text": "9.Soft top operating switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Ventilator",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Center display and multi-function control panel or Instrument pocket",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "3.Front passenger air bag status light",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "4.Front passenger supplemental air bag",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "5.Fuse box cover",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Push-button ignition switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "7.Hazard warning flasher switch",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "8.Seat heater switch or Climate controlled seat switch",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "10.SynchroRev Match mode switch",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Heater and air conditioner",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "12.Audio system",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "13.Power outlet",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "14.Glove box",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "11.Heater and air conditioner, 8.Seat heater switch or Climate controlled seat switch, 7.Hazard warning flasher switch"
+    },
+    {
+      "id": 10,
+      "text": "10.SynchroRev Match mode switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Ventilator",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Center display and multi-function control panel or Instrument pocket",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "3.Front passenger air bag status light",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "4.Front passenger supplemental air bag",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "5.Fuse box cover",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Push-button ignition switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "7.Hazard warning flasher switch",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "8.Seat heater switch or Climate controlled seat switch",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "9.Soft top operating switch",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "11.Heater and air conditioner",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "12.Audio system",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "13.Power outlet",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "14.Glove box",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "11.Heater and air conditioner, 8.Seat heater switch or Climate controlled seat switch, 7.Hazard warning flasher switch"
+    },
+    {
+      "id": 11,
+      "text": "11.Heater and air conditioner",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Ventilator",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Center display and multi-function control panel or Instrument pocket",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "3.Front passenger air bag status light",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "4.Front passenger supplemental air bag",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "5.Fuse box cover",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Push-button ignition switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "7.Hazard warning flasher switch",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "8.Seat heater switch or Climate controlled seat switch",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "9.Soft top operating switch",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "10.SynchroRev Match mode switch",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "12.Audio system",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "13.Power outlet",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "14.Glove box",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "12.Audio system, 10.SynchroRev Match mode switch, 13.Power outlet"
+    },
+    {
+      "id": 12,
+      "text": "12.Audio system",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Ventilator",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Center display and multi-function control panel or Instrument pocket",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "3.Front passenger air bag status light",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "4.Front passenger supplemental air bag",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "5.Fuse box cover",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Push-button ignition switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "7.Hazard warning flasher switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "8.Seat heater switch or Climate controlled seat switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "9.Soft top operating switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "10.SynchroRev Match mode switch",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "11.Heater and air conditioner",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "13.Power outlet",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "14.Glove box",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "2.Center display and multi-function control panel or Instrument pocket, 11.Heater and air conditioner, 13.Power outlet"
+    },
+    {
+      "id": 13,
+      "text": "13.Power outlet",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Ventilator",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Center display and multi-function control panel or Instrument pocket",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "3.Front passenger air bag status light",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Front passenger supplemental air bag",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "5.Fuse box cover",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Push-button ignition switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "7.Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "8.Seat heater switch or Climate controlled seat switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "9.Soft top operating switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "10.SynchroRev Match mode switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "11.Heater and air conditioner",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "12.Audio system",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "14.Glove box",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "4.Front passenger supplemental air bag, 11.Heater and air conditioner, 14.Glove box"
+    },
+    {
+      "id": 14,
+      "text": "14.Glove box",
+      "size": "Medium",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Ventilator",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Center display and multi-function control panel or Instrument pocket",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "3.Front passenger air bag status light",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Front passenger supplemental air bag",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "5.Fuse box cover",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Push-button ignition switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "7.Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "8.Seat heater switch or Climate controlled seat switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "9.Soft top operating switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "10.SynchroRev Match mode switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "11.Heater and air conditioner",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "12.Audio system",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "13.Power outlet",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "4.Front passenger supplemental air bag, 13.Power outlet, 12.Audio system"
+    }
+  ]
+}

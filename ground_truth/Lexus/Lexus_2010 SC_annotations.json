@@ -1,0 +1,1791 @@
+{
+  "brand": "Lexus",
+  "model": "2010 SC",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "Emergency flasher switch",
+      "size": "Small",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Cruise control switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Steering switches",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Navigation system",
+          "proximity": "Adjacent",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Clock",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Rear window defogger switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener main switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Driving pattern selector switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Automatic transmission shift lever",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Coin box",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "VSC off switch",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning select switch",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Cigarette lighter",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Ashtray",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Audio system",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        }
+      ],
+      "landmarks": "Navigation system, Audio system, Clock"
+    },
+    {
+      "id": 2,
+      "text": "Windshield wiper and washer switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Emergency flasher switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Cruise control switch",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Steering switches",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Navigation system",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Clock",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Rear window defogger switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener main switch",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Driving pattern selector switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Automatic transmission shift lever",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Coin box",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "VSC off switch",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning select switch",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Cigarette lighter",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Ashtray",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Audio system",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Navigation system, Cruise control switch, Emergency flasher switch"
+    },
+    {
+      "id": 3,
+      "text": "Cruise control switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Emergency flasher switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Steering switches",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Navigation system",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Clock",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Rear window defogger switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener main switch",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Driving pattern selector switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Automatic transmission shift lever",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Coin box",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "VSC off switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning select switch",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Cigarette lighter",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Ashtray",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Audio system",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Windshield wiper and washer switch, Steering switches, Emergency flasher switch"
+    },
+    {
+      "id": 4,
+      "text": "Steering switches",
+      "size": "Medium",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Emergency flasher switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Cruise control switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Navigation system",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Clock",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Rear window defogger switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener main switch",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Driving pattern selector switch",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Automatic transmission shift lever",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Coin box",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "VSC off switch",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning select switch",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Cigarette lighter",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Ashtray",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Audio system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "Windshield wiper and washer switch, Cruise control switch, Audio system"
+    },
+    {
+      "id": 5,
+      "text": "Navigation system",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "Emergency flasher switch",
+          "proximity": "Adjacent",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Cruise control switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Steering switches",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Clock",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Rear window defogger switch",
+          "proximity": "Adjacent",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener main switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Driving pattern selector switch",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Automatic transmission shift lever",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Coin box",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "VSC off switch",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning select switch",
+          "proximity": "Very Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Cigarette lighter",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Ashtray",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Audio system",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Windshield wiper and washer switch, Clock, Emergency flasher switch"
+    },
+    {
+      "id": 6,
+      "text": "Clock",
+      "size": "Medium",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Emergency flasher switch",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Cruise control switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Steering switches",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Navigation system",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Rear window defogger switch",
+          "proximity": "Adjacent",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener main switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Driving pattern selector switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Automatic transmission shift lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Coin box",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "VSC off switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning select switch",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Cigarette lighter",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Ashtray",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Audio system",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        }
+      ],
+      "landmarks": "Navigation system, Audio system, Emergency flasher switch"
+    },
+    {
+      "id": 7,
+      "text": "Rear window defogger switch",
+      "size": "Very Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Emergency flasher switch",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Cruise control switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Steering switches",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Navigation system",
+          "proximity": "Adjacent",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Clock",
+          "proximity": "Adjacent",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Trunk lid opener main switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Driving pattern selector switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Automatic transmission shift lever",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Coin box",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "VSC off switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning select switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Cigarette lighter",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Ashtray",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Audio system",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        }
+      ],
+      "landmarks": "Navigation system, Audio system, Clock"
+    },
+    {
+      "id": 8,
+      "text": "Trunk lid opener main switch",
+      "size": "Very Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Emergency flasher switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Cruise control switch",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Steering switches",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Navigation system",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Clock",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Rear window defogger switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Driving pattern selector switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Automatic transmission shift lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Coin box",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "VSC off switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning select switch",
+          "proximity": "Adjacent",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Cigarette lighter",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Ashtray",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Audio system",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Rear window defogger switch, Tire pressure warning select switch, Glove box"
+    },
+    {
+      "id": 9,
+      "text": "Glove box",
+      "size": "Very Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Emergency flasher switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Cruise control switch",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Steering switches",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Navigation system",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Clock",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Rear window defogger switch",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Trunk lid opener main switch",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Driving pattern selector switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Automatic transmission shift lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Coin box",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "VSC off switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning select switch",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Cigarette lighter",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Ashtray",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Audio system",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Rear window defogger switch, Tire pressure warning select switch, Trunk lid opener main switch"
+    },
+    {
+      "id": 10,
+      "text": "Driving pattern selector switch",
+      "size": "Very Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Emergency flasher switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Cruise control switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Steering switches",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Navigation system",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Clock",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Rear window defogger switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener main switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Automatic transmission shift lever",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Coin box",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "VSC off switch",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Tire pressure warning select switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Cigarette lighter",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Ashtray",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Audio system",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Coin box, Automatic transmission shift lever, VSC off switch"
+    },
+    {
+      "id": 11,
+      "text": "Automatic transmission shift lever",
+      "size": "Medium",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Emergency flasher switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Cruise control switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Steering switches",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Navigation system",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Clock",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Rear window defogger switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener main switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Driving pattern selector switch",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Coin box",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "VSC off switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning select switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Cigarette lighter",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Ashtray",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Audio system",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": true
+        }
+      ],
+      "landmarks": "Audio system, Coin box, Ashtray"
+    },
+    {
+      "id": 12,
+      "text": "Coin box",
+      "size": "Medium",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Emergency flasher switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Cruise control switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Steering switches",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Navigation system",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Clock",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Rear window defogger switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener main switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Driving pattern selector switch",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Automatic transmission shift lever",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "VSC off switch",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Tire pressure warning select switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Cigarette lighter",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Ashtray",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Audio system",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Automatic transmission shift lever, Driving pattern selector switch, VSC off switch"
+    },
+    {
+      "id": 13,
+      "text": "VSC off switch",
+      "size": "Very Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Emergency flasher switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Cruise control switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Steering switches",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Navigation system",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Clock",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Rear window defogger switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener main switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Driving pattern selector switch",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Automatic transmission shift lever",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Coin box",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Tire pressure warning select switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Cigarette lighter",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Ashtray",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Audio system",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Coin box, Driving pattern selector switch, Ashtray"
+    },
+    {
+      "id": 14,
+      "text": "Tire pressure warning select switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Emergency flasher switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Cruise control switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Steering switches",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Navigation system",
+          "proximity": "Very Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Clock",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Rear window defogger switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener main switch",
+          "proximity": "Adjacent",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Driving pattern selector switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Automatic transmission shift lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Coin box",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "VSC off switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Cigarette lighter",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Ashtray",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Audio system",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Ashtray, Glove box, Trunk lid opener main switch"
+    },
+    {
+      "id": 15,
+      "text": "Cigarette lighter",
+      "size": "Medium",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Emergency flasher switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Cruise control switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Steering switches",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Navigation system",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Clock",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Rear window defogger switch",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener main switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Driving pattern selector switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Automatic transmission shift lever",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Coin box",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "VSC off switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning select switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Ashtray",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": true
+        },
+        {
+          "target": "Audio system",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        }
+      ],
+      "landmarks": "Audio system, Automatic transmission shift lever, Ashtray"
+    },
+    {
+      "id": 16,
+      "text": "Ashtray",
+      "size": "Medium",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Emergency flasher switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Cruise control switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Steering switches",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Navigation system",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Clock",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Rear window defogger switch",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener main switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Driving pattern selector switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Automatic transmission shift lever",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Coin box",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "VSC off switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning select switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Cigarette lighter",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": true
+        },
+        {
+          "target": "Audio system",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        }
+      ],
+      "landmarks": "Audio system, Automatic transmission shift lever, Cigarette lighter"
+    },
+    {
+      "id": 17,
+      "text": "Audio system",
+      "size": "Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Emergency flasher switch",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Cruise control switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Steering switches",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Navigation system",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Clock",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Rear window defogger switch",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener main switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Driving pattern selector switch",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Automatic transmission shift lever",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Coin box",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "VSC off switch",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning select switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Cigarette lighter",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Ashtray",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        }
+      ],
+      "landmarks": "Clock, Ashtray, Glove box"
+    }
+  ]
+}

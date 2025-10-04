@@ -1,0 +1,1791 @@
+{
+  "brand": "Toyota",
+  "model": "2012 Prius",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "1.SRS driver airbag",
+      "size": "Large",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "2.Horn",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Windshield wipers and washer switch",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Rear window wiper and washer switch",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Gauges and meters",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "9.Multi-information display",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Navigation system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Audio system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Parking brake pedal",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "14.SRS knee airbag",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "15.Pre-collision braking off switch",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "16.Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "17.Tilt and telescopic steering control lever",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": true
+        }
+      ],
+      "landmarks": "8.Gauges and meters, 17.Tilt and telescopic steering control lever, 3.Headlight switch"
+    },
+    {
+      "id": 2,
+      "text": "2.Horn",
+      "size": "Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.SRS driver airbag",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Windshield wipers and washer switch",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Rear window wiper and washer switch",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Gauges and meters",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "9.Multi-information display",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Navigation system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Audio system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Parking brake pedal",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "14.SRS knee airbag",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "15.Pre-collision braking off switch",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "16.Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "17.Tilt and telescopic steering control lever",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": true
+        }
+      ],
+      "landmarks": "8.Gauges and meters, 17.Tilt and telescopic steering control lever, 4.Turn signal lever"
+    },
+    {
+      "id": 3,
+      "text": "3.Headlight switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.SRS driver airbag",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "2.Horn",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "6.Windshield wipers and washer switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Rear window wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Gauges and meters",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "9.Multi-information display",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Navigation system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Audio system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Parking brake pedal",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "14.SRS knee airbag",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "15.Pre-collision braking off switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "16.Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "17.Tilt and telescopic steering control lever",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "8.Gauges and meters, 13.Parking brake pedal, 2.Horn"
+    },
+    {
+      "id": 4,
+      "text": "4.Turn signal lever",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.SRS driver airbag",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "2.Horn",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "6.Windshield wipers and washer switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Rear window wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Gauges and meters",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "9.Multi-information display",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Navigation system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Audio system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Parking brake pedal",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "14.SRS knee airbag",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "15.Pre-collision braking off switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "16.Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "17.Tilt and telescopic steering control lever",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "8.Gauges and meters, 13.Parking brake pedal, 1.SRS driver airbag"
+    },
+    {
+      "id": 5,
+      "text": "5.Fog light switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.SRS driver airbag",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "2.Horn",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "6.Windshield wipers and washer switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Rear window wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Gauges and meters",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "9.Multi-information display",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Navigation system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Audio system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Parking brake pedal",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "14.SRS knee airbag",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "15.Pre-collision braking off switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "16.Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "17.Tilt and telescopic steering control lever",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "8.Gauges and meters, 13.Parking brake pedal, 1.SRS driver airbag"
+    },
+    {
+      "id": 6,
+      "text": "6.Windshield wipers and washer switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.SRS driver airbag",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Horn",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "7.Rear window wiper and washer switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "8.Gauges and meters",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "9.Multi-information display",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "10.Navigation system",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Audio system",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Parking brake pedal",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "14.SRS knee airbag",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "15.Pre-collision braking off switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "16.Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "17.Tilt and telescopic steering control lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "8.Gauges and meters, 14.SRS knee airbag, 2.Horn"
+    },
+    {
+      "id": 7,
+      "text": "7.Rear window wiper and washer switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.SRS driver airbag",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Horn",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Windshield wipers and washer switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "8.Gauges and meters",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "9.Multi-information display",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "10.Navigation system",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Audio system",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Parking brake pedal",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "14.SRS knee airbag",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "15.Pre-collision braking off switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "16.Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "17.Tilt and telescopic steering control lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "8.Gauges and meters, 14.SRS knee airbag, 2.Horn"
+    },
+    {
+      "id": 8,
+      "text": "8.Gauges and meters",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "1.SRS driver airbag",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Horn",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Windshield wipers and washer switch",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "7.Rear window wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "9.Multi-information display",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "10.Navigation system",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "11.Audio system",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "12.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Parking brake pedal",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "14.SRS knee airbag",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "15.Pre-collision braking off switch",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "16.Tire pressure warning reset switch",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "17.Tilt and telescopic steering control lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "11.Audio system, 6.Windshield wipers and washer switch, 2.Horn"
+    },
+    {
+      "id": 9,
+      "text": "9.Multi-information display",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "1.SRS driver airbag",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Horn",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Windshield wipers and washer switch",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "7.Rear window wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "8.Gauges and meters",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "10.Navigation system",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "11.Audio system",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "12.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Parking brake pedal",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "14.SRS knee airbag",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "15.Pre-collision braking off switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "16.Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "17.Tilt and telescopic steering control lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "7.Rear window wiper and washer switch, 10.Navigation system, 2.Horn"
+    },
+    {
+      "id": 10,
+      "text": "10.Navigation system",
+      "size": "Very Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "1.SRS driver airbag",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Horn",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Windshield wipers and washer switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "7.Rear window wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "8.Gauges and meters",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "9.Multi-information display",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "11.Audio system",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "12.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Parking brake pedal",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "14.SRS knee airbag",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "15.Pre-collision braking off switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "16.Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "17.Tilt and telescopic steering control lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "8.Gauges and meters, 14.SRS knee airbag, 6.Windshield wipers and washer switch"
+    },
+    {
+      "id": 11,
+      "text": "11.Audio system",
+      "size": "Very Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.SRS driver airbag",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Horn",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Windshield wipers and washer switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "7.Rear window wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "8.Gauges and meters",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "9.Multi-information display",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "10.Navigation system",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "12.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Parking brake pedal",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "14.SRS knee airbag",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "15.Pre-collision braking off switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "16.Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "17.Tilt and telescopic steering control lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "8.Gauges and meters, 14.SRS knee airbag, 7.Rear window wiper and washer switch"
+    },
+    {
+      "id": 12,
+      "text": "12.Fuel filler door opener",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "1.SRS driver airbag",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "2.Horn",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "6.Windshield wipers and washer switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Rear window wiper and washer switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Gauges and meters",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Multi-information display",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Navigation system",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Audio system",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "13.Parking brake pedal",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "14.SRS knee airbag",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "15.Pre-collision braking off switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "16.Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "17.Tilt and telescopic steering control lever",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "13.Parking brake pedal, 3.Headlight switch, 17.Tilt and telescopic steering control lever"
+    },
+    {
+      "id": 13,
+      "text": "13.Parking brake pedal",
+      "size": "Medium",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.SRS driver airbag",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "2.Horn",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "6.Windshield wipers and washer switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Rear window wiper and washer switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Gauges and meters",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Multi-information display",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Navigation system",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Audio system",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Fuel filler door opener",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "14.SRS knee airbag",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "15.Pre-collision braking off switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "16.Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "17.Tilt and telescopic steering control lever",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "3.Headlight switch, 12.Fuel filler door opener, 16.Tire pressure warning reset switch"
+    },
+    {
+      "id": 14,
+      "text": "14.SRS knee airbag",
+      "size": "Large",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "1.SRS driver airbag",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "2.Horn",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Windshield wipers and washer switch",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "7.Rear window wiper and washer switch",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "8.Gauges and meters",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Multi-information display",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Navigation system",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Audio system",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Parking brake pedal",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "15.Pre-collision braking off switch",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "16.Tire pressure warning reset switch",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "17.Tilt and telescopic steering control lever",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": true
+        }
+      ],
+      "landmarks": "6.Windshield wipers and washer switch, 13.Parking brake pedal, 17.Tilt and telescopic steering control lever"
+    },
+    {
+      "id": 15,
+      "text": "15.Pre-collision braking off switch",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "1.SRS driver airbag",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "2.Horn",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Windshield wipers and washer switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Rear window wiper and washer switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Gauges and meters",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Multi-information display",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Navigation system",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Audio system",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Fuel filler door opener",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Parking brake pedal",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "14.SRS knee airbag",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "16.Tire pressure warning reset switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": true
+        },
+        {
+          "target": "17.Tilt and telescopic steering control lever",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        }
+      ],
+      "landmarks": "2.Horn, 13.Parking brake pedal, 16.Tire pressure warning reset switch"
+    },
+    {
+      "id": 16,
+      "text": "16.Tire pressure warning reset switch",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "1.SRS driver airbag",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "2.Horn",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Windshield wipers and washer switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Rear window wiper and washer switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Gauges and meters",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Multi-information display",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Navigation system",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Audio system",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Fuel filler door opener",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Parking brake pedal",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "14.SRS knee airbag",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "15.Pre-collision braking off switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": true
+        },
+        {
+          "target": "17.Tilt and telescopic steering control lever",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": true
+        }
+      ],
+      "landmarks": "17.Tilt and telescopic steering control lever, 13.Parking brake pedal, 15.Pre-collision braking off switch"
+    },
+    {
+      "id": 17,
+      "text": "17.Tilt and telescopic steering control lever",
+      "size": "Medium",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "1.SRS driver airbag",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "2.Horn",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Windshield wipers and washer switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Rear window wiper and washer switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Gauges and meters",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Multi-information display",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Navigation system",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Audio system",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Fuel filler door opener",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Parking brake pedal",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "14.SRS knee airbag",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "15.Pre-collision braking off switch",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "16.Tire pressure warning reset switch",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": true
+        }
+      ],
+      "landmarks": "2.Horn, 16.Tire pressure warning reset switch, 14.SRS knee airbag"
+    }
+  ]
+}

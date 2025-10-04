@@ -1,0 +1,2004 @@
+{
+  "brand": "Lexus",
+  "model": "2009 LS",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "Headlight switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Turn signal lever",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "Horn",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Power switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener main switch",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Floor mat",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Hood release lever",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Volume adjustment knob",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Pre-collision brake off switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Parking brake switches",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Gauges and meters, Hood release lever, Horn"
+    },
+    {
+      "id": 2,
+      "text": "Turn signal lever",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "Horn",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Power switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener main switch",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Floor mat",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Hood release lever",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Volume adjustment knob",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Pre-collision brake off switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Parking brake switches",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Multi-information display, Hood release lever, Horn"
+    },
+    {
+      "id": 3,
+      "text": "Fog light switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "Horn",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Power switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener main switch",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Floor mat",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Hood release lever",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Volume adjustment knob",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Pre-collision brake off switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Parking brake switches",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Gauges and meters, Hood release lever, Horn"
+    },
+    {
+      "id": 4,
+      "text": "Horn",
+      "size": "Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Power switch",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Trunk opener main switch",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Floor mat",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Hood release lever",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Volume adjustment knob",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Pre-collision brake off switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Parking brake switches",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Gauges and meters, Floor mat, Power switch"
+    },
+    {
+      "id": 5,
+      "text": "Gauges and meters",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Horn",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Power switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener main switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Floor mat",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Hood release lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Volume adjustment knob",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Pre-collision brake off switch",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Parking brake switches",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Headlight switch, Windshield wiper and washer switch, Horn"
+    },
+    {
+      "id": 6,
+      "text": "Multi-information display",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Horn",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Power switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener main switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Floor mat",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Hood release lever",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Volume adjustment knob",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Pre-collision brake off switch",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Parking brake switches",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Headlight switch, Windshield wiper and washer switch, Horn"
+    },
+    {
+      "id": 7,
+      "text": "Windshield wiper and washer switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Horn",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Power switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Trunk opener main switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Floor mat",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Hood release lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Volume adjustment knob",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Pre-collision brake off switch",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Parking brake switches",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Gauges and meters, Power switch, Horn"
+    },
+    {
+      "id": 8,
+      "text": "Power switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Horn",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Trunk opener main switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Floor mat",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Hood release lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Volume adjustment knob",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Pre-collision brake off switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Parking brake switches",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Trunk opener",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Windshield wiper and washer switch, Parking brake switches, Horn"
+    },
+    {
+      "id": 9,
+      "text": "Trunk opener main switch",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Horn",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Power switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Floor mat",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hood release lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Volume adjustment knob",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Pre-collision brake off switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Parking brake switches",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Power switch, Volume adjustment knob, Glove box"
+    },
+    {
+      "id": 10,
+      "text": "Glove box",
+      "size": "Very Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Horn",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Power switch",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Trunk opener main switch",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Floor mat",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hood release lever",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Volume adjustment knob",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Pre-collision brake off switch",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Parking brake switches",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Power switch, Trunk opener main switch, Volume adjustment knob"
+    },
+    {
+      "id": 11,
+      "text": "Floor mat",
+      "size": "Very Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Horn",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Power switch",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener main switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hood release lever",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Volume adjustment knob",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Pre-collision brake off switch",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Parking brake switches",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Horn, Hood release lever, Pre-collision brake off switch"
+    },
+    {
+      "id": 12,
+      "text": "Hood release lever",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Horn",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Power switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener main switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Floor mat",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Volume adjustment knob",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Pre-collision brake off switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Parking brake switches",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "Trunk opener, Floor mat, Fuel filler door opener"
+    },
+    {
+      "id": 13,
+      "text": "Volume adjustment knob",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Horn",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Power switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener main switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Floor mat",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Hood release lever",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Pre-collision brake off switch",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Parking brake switches",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Trunk opener",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Parking brake switches, Floor mat, Tire pressure warning reset switch"
+    },
+    {
+      "id": 14,
+      "text": "Tire pressure warning reset switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Horn",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Power switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener main switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Floor mat",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Hood release lever",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Volume adjustment knob",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Pre-collision brake off switch",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Parking brake switches",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Trunk opener",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Parking brake switches, Floor mat, Pre-collision brake off switch"
+    },
+    {
+      "id": 15,
+      "text": "Pre-collision brake off switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Horn",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Power switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener main switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Floor mat",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Hood release lever",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Volume adjustment knob",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Parking brake switches",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Trunk opener",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Parking brake switches, Floor mat, Tire pressure warning reset switch"
+    },
+    {
+      "id": 16,
+      "text": "Parking brake switches",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Horn",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Power switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener main switch",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Floor mat",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Hood release lever",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Volume adjustment knob",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Pre-collision brake off switch",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Windshield wiper and washer switch, Tire pressure warning reset switch, Horn"
+    },
+    {
+      "id": 17,
+      "text": "Trunk opener",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Horn",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Power switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener main switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Floor mat",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Hood release lever",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Volume adjustment knob",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Pre-collision brake off switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Parking brake switches",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "Headlight switch, Hood release lever, Fuel filler door opener"
+    },
+    {
+      "id": 18,
+      "text": "Fuel filler door opener",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Horn",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wiper and washer switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Power switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener main switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Floor mat",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Hood release lever",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Volume adjustment knob",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Pre-collision brake off switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Parking brake switches",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Trunk opener",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "Turn signal lever, Hood release lever, Trunk opener"
+    }
+  ]
+}

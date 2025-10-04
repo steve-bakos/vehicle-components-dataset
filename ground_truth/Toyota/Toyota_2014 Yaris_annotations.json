@@ -1,0 +1,519 @@
+{
+  "brand": "Toyota",
+  "model": "2014 Yaris",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "1.Gauges and meters",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "2.Multi-information display",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": true
+        },
+        {
+          "target": "3.AUX port/USB port",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "4.Power outlet",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "5.Glove box",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "6.SRS knee airbag",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "7.Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "8.Hood lock release lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "9.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "2.Multi-information display, 6.SRS knee airbag, 4.Power outlet"
+    },
+    {
+      "id": 2,
+      "text": "2.Multi-information display",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "1.Gauges and meters",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": true
+        },
+        {
+          "target": "3.AUX port/USB port",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "4.Power outlet",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "5.Glove box",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "6.SRS knee airbag",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "7.Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "8.Hood lock release lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "9.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "1.Gauges and meters, 6.SRS knee airbag, 4.Power outlet"
+    },
+    {
+      "id": 3,
+      "text": "3.AUX port/USB port",
+      "size": "Very Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "1.Gauges and meters",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "2.Multi-information display",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Power outlet",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "5.Glove box",
+          "proximity": "Close",
+          "position": "Same Place",
+          "landmark": true
+        },
+        {
+          "target": "6.SRS knee airbag",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "7.Tire pressure warning reset switch",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "8.Hood lock release lever",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "9.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "1.Gauges and meters, 5.Glove box, 4.Power outlet"
+    },
+    {
+      "id": 4,
+      "text": "4.Power outlet",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "1.Gauges and meters",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "2.Multi-information display",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "3.AUX port/USB port",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "5.Glove box",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "6.SRS knee airbag",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "7.Tire pressure warning reset switch",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "8.Hood lock release lever",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "9.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "1.Gauges and meters, 5.Glove box, 3.AUX port/USB port"
+    },
+    {
+      "id": 5,
+      "text": "5.Glove box",
+      "size": "Very Large",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "1.Gauges and meters",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Multi-information display",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "3.AUX port/USB port",
+          "proximity": "Close",
+          "position": "Same Place",
+          "landmark": true
+        },
+        {
+          "target": "4.Power outlet",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "6.SRS knee airbag",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "7.Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "8.Hood lock release lever",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "9.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "3.AUX port/USB port, 6.SRS knee airbag, 4.Power outlet"
+    },
+    {
+      "id": 6,
+      "text": "6.SRS knee airbag",
+      "size": "Very Large",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "1.Gauges and meters",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "2.Multi-information display",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "3.AUX port/USB port",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "4.Power outlet",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "5.Glove box",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Tire pressure warning reset switch",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "8.Hood lock release lever",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "9.Fuel filler door opener",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "1.Gauges and meters, 7.Tire pressure warning reset switch, 9.Fuel filler door opener"
+    },
+    {
+      "id": 7,
+      "text": "7.Tire pressure warning reset switch",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "1.Gauges and meters",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "2.Multi-information display",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "3.AUX port/USB port",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "4.Power outlet",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "5.Glove box",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "6.SRS knee airbag",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Hood lock release lever",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "9.Fuel filler door opener",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "1.Gauges and meters, 9.Fuel filler door opener, 8.Hood lock release lever"
+    },
+    {
+      "id": 8,
+      "text": "8.Hood lock release lever",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "1.Gauges and meters",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "2.Multi-information display",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "3.AUX port/USB port",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "4.Power outlet",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "5.Glove box",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "6.SRS knee airbag",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Tire pressure warning reset switch",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "9.Fuel filler door opener",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": true
+        }
+      ],
+      "landmarks": "1.Gauges and meters, 9.Fuel filler door opener, 7.Tire pressure warning reset switch"
+    },
+    {
+      "id": 9,
+      "text": "9.Fuel filler door opener",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "1.Gauges and meters",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "2.Multi-information display",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "3.AUX port/USB port",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "4.Power outlet",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "5.Glove box",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "6.SRS knee airbag",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "7.Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "8.Hood lock release lever",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": true
+        }
+      ],
+      "landmarks": "8.Hood lock release lever, 7.Tire pressure warning reset switch, 6.SRS knee airbag"
+    }
+  ]
+}

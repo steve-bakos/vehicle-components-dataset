@@ -1,0 +1,1224 @@
+{
+  "brand": "Ford",
+  "model": "2024 F-550",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "A.Instrument Cluster Overview",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "B.Ignition Switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "C.Switching the 360 Degree Camera On and Off",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "D.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Switching Stability Control On and Off",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Status Bar",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Locating the Power Outlets",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "K.Identifying the Climate Control Unit",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "L.Selecting a Four-Wheel Drive Mode",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "M.Using the Integerated Trailer Brake Controller",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "N.Exterior Lighting Control",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "C.Switching the 360 Degree Camera On and Off, N.Exterior Lighting Control, B.Ignition Switch"
+    },
+    {
+      "id": 2,
+      "text": "B.Ignition Switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "C.Switching the 360 Degree Camera On and Off",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Switching the Hazard Flashers On and Off",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Switching Stability Control On and Off",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Status Bar",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "H.Opening the Glove Compartment",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "I.Locating the Power Outlets",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "K.Identifying the Climate Control Unit",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "L.Selecting a Four-Wheel Drive Mode",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "M.Using the Integerated Trailer Brake Controller",
+          "proximity": "Adjacent",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "N.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "A.Instrument Cluster Overview, G.Status Bar, M.Using the Integerated Trailer Brake Controller"
+    },
+    {
+      "id": 3,
+      "text": "C.Switching the 360 Degree Camera On and Off",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "B.Ignition Switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "D.Switching the Hazard Flashers On and Off",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "E.Switching Stability Control On and Off",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "G.Status Bar",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "H.Opening the Glove Compartment",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Locating the Power Outlets",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "K.Identifying the Climate Control Unit",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "L.Selecting a Four-Wheel Drive Mode",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "M.Using the Integerated Trailer Brake Controller",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "N.Exterior Lighting Control",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "A.Instrument Cluster Overview, G.Status Bar, D.Switching the Hazard Flashers On and Off"
+    },
+    {
+      "id": 4,
+      "text": "D.Switching the Hazard Flashers On and Off",
+      "size": "Small",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Ignition Switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Switching the 360 Degree Camera On and Off",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "E.Switching Stability Control On and Off",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "G.Status Bar",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "H.Opening the Glove Compartment",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Locating the Power Outlets",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "K.Identifying the Climate Control Unit",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "L.Selecting a Four-Wheel Drive Mode",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "M.Using the Integerated Trailer Brake Controller",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "N.Exterior Lighting Control",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "C.Switching the 360 Degree Camera On and Off, E.Switching Stability Control On and Off, G.Status Bar"
+    },
+    {
+      "id": 5,
+      "text": "E.Switching Stability Control On and Off",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Ignition Switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Switching the 360 Degree Camera On and Off",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "D.Switching the Hazard Flashers On and Off",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "G.Status Bar",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "H.Opening the Glove Compartment",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Locating the Power Outlets",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "K.Identifying the Climate Control Unit",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "L.Selecting a Four-Wheel Drive Mode",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "M.Using the Integerated Trailer Brake Controller",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "N.Exterior Lighting Control",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "G.Status Bar, D.Switching the Hazard Flashers On and Off, F.Opening the Glove Compartment"
+    },
+    {
+      "id": 6,
+      "text": "F.Opening the Glove Compartment",
+      "size": "Medium",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Ignition Switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Switching the 360 Degree Camera On and Off",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Switching the Hazard Flashers On and Off",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Switching Stability Control On and Off",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "G.Status Bar",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "H.Opening the Glove Compartment",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Locating the Power Outlets",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "K.Identifying the Climate Control Unit",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "L.Selecting a Four-Wheel Drive Mode",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "M.Using the Integerated Trailer Brake Controller",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "N.Exterior Lighting Control",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "E.Switching Stability Control On and Off, I.Locating the Power Outlets, G.Status Bar"
+    },
+    {
+      "id": 7,
+      "text": "G.Status Bar",
+      "size": "Very Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Ignition Switch",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "C.Switching the 360 Degree Camera On and Off",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "D.Switching the Hazard Flashers On and Off",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "E.Switching Stability Control On and Off",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Opening the Glove Compartment",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Locating the Power Outlets",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "K.Identifying the Climate Control Unit",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "L.Selecting a Four-Wheel Drive Mode",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "M.Using the Integerated Trailer Brake Controller",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "N.Exterior Lighting Control",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "D.Switching the Hazard Flashers On and Off, J.Switching the Audio Unit On and Off, B.Ignition Switch"
+    },
+    {
+      "id": 8,
+      "text": "H.Opening the Glove Compartment",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Ignition Switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "C.Switching the 360 Degree Camera On and Off",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "D.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "E.Switching Stability Control On and Off",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "G.Status Bar",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "I.Locating the Power Outlets",
+          "proximity": "Adjacent",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "K.Identifying the Climate Control Unit",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "L.Selecting a Four-Wheel Drive Mode",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "M.Using the Integerated Trailer Brake Controller",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "N.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "F.Opening the Glove Compartment, I.Locating the Power Outlets, K.Identifying the Climate Control Unit"
+    },
+    {
+      "id": 9,
+      "text": "I.Locating the Power Outlets",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Ignition Switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Switching the 360 Degree Camera On and Off",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "E.Switching Stability Control On and Off",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "G.Status Bar",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "H.Opening the Glove Compartment",
+          "proximity": "Adjacent",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "K.Identifying the Climate Control Unit",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "L.Selecting a Four-Wheel Drive Mode",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "M.Using the Integerated Trailer Brake Controller",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "N.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "F.Opening the Glove Compartment, H.Opening the Glove Compartment, J.Switching the Audio Unit On and Off"
+    },
+    {
+      "id": 10,
+      "text": "J.Switching the Audio Unit On and Off",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "B.Ignition Switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Switching the 360 Degree Camera On and Off",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "D.Switching the Hazard Flashers On and Off",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "E.Switching Stability Control On and Off",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Status Bar",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "H.Opening the Glove Compartment",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Locating the Power Outlets",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "K.Identifying the Climate Control Unit",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "L.Selecting a Four-Wheel Drive Mode",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "M.Using the Integerated Trailer Brake Controller",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "N.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "G.Status Bar, K.Identifying the Climate Control Unit, M.Using the Integerated Trailer Brake Controller"
+    },
+    {
+      "id": 11,
+      "text": "K.Identifying the Climate Control Unit",
+      "size": "Medium",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Ignition Switch",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "C.Switching the 360 Degree Camera On and Off",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "D.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "E.Switching Stability Control On and Off",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Status Bar",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "H.Opening the Glove Compartment",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Locating the Power Outlets",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "L.Selecting a Four-Wheel Drive Mode",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "M.Using the Integerated Trailer Brake Controller",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "N.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "J.Switching the Audio Unit On and Off, L.Selecting a Four-Wheel Drive Mode, I.Locating the Power Outlets"
+    },
+    {
+      "id": 12,
+      "text": "L.Selecting a Four-Wheel Drive Mode",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Ignition Switch",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "C.Switching the 360 Degree Camera On and Off",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "E.Switching Stability Control On and Off",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Status Bar",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Opening the Glove Compartment",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Locating the Power Outlets",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "K.Identifying the Climate Control Unit",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "M.Using the Integerated Trailer Brake Controller",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "N.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "M.Using the Integerated Trailer Brake Controller, B.Ignition Switch, K.Identifying the Climate Control Unit"
+    },
+    {
+      "id": 13,
+      "text": "M.Using the Integerated Trailer Brake Controller",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Ignition Switch",
+          "proximity": "Adjacent",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "C.Switching the 360 Degree Camera On and Off",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Switching the Hazard Flashers On and Off",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Switching Stability Control On and Off",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Status Bar",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "H.Opening the Glove Compartment",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Locating the Power Outlets",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "K.Identifying the Climate Control Unit",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "L.Selecting a Four-Wheel Drive Mode",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "N.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "B.Ignition Switch, L.Selecting a Four-Wheel Drive Mode, G.Status Bar"
+    },
+    {
+      "id": 14,
+      "text": "N.Exterior Lighting Control",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "B.Ignition Switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "C.Switching the 360 Degree Camera On and Off",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Switching the Hazard Flashers On and Off",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Switching Stability Control On and Off",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Status Bar",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Opening the Glove Compartment",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Locating the Power Outlets",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "K.Identifying the Climate Control Unit",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "L.Selecting a Four-Wheel Drive Mode",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "M.Using the Integerated Trailer Brake Controller",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "A.Instrument Cluster Overview, L.Selecting a Four-Wheel Drive Mode, B.Ignition Switch"
+    }
+  ]
+}

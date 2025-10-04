@@ -1,0 +1,1059 @@
+{
+  "brand": "Lexus",
+  "model": "2011 LX",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "Headlight switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Turn signal lever",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": true
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wipers and washer switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Rear window wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "SRS knee airbags",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hood opener",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Bottle holder",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Gauges and meters, Fuel filler door opener, Turn signal lever"
+    },
+    {
+      "id": 2,
+      "text": "Turn signal lever",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": true
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wipers and washer switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Rear window wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "SRS knee airbags",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hood opener",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Bottle holder",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Gauges and meters, Fuel filler door opener, Headlight switch"
+    },
+    {
+      "id": 3,
+      "text": "Fog light switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": true
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wipers and washer switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Rear window wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "SRS knee airbags",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hood opener",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Bottle holder",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Gauges and meters, Fuel filler door opener, Turn signal lever"
+    },
+    {
+      "id": 4,
+      "text": "Gauges and meters",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wipers and washer switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Rear window wiper and washer switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "SRS knee airbags",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Hood opener",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Bottle holder",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Headlight switch, Windshield wipers and washer switch, SRS knee airbags"
+    },
+    {
+      "id": 5,
+      "text": "Multi-information display",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wipers and washer switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Rear window wiper and washer switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "SRS knee airbags",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hood opener",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Bottle holder",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Headlight switch, Windshield wipers and washer switch, SRS knee airbags"
+    },
+    {
+      "id": 6,
+      "text": "Windshield wipers and washer switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Rear window wiper and washer switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "SRS knee airbags",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hood opener",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Bottle holder",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Gauges and meters, SRS knee airbags, Multi-information display"
+    },
+    {
+      "id": 7,
+      "text": "Rear window wiper and washer switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Windshield wipers and washer switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "SRS knee airbags",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hood opener",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Bottle holder",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Gauges and meters, SRS knee airbags, Multi-information display"
+    },
+    {
+      "id": 8,
+      "text": "Glove box",
+      "size": "Very Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wipers and washer switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Rear window wiper and washer switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "SRS knee airbags",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hood opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Bottle holder",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Gauges and meters, SRS knee airbags, Windshield wipers and washer switch"
+    },
+    {
+      "id": 9,
+      "text": "SRS knee airbags",
+      "size": "Very Large",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wipers and washer switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Rear window wiper and washer switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Hood opener",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Bottle holder",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Gauges and meters, Tire pressure warning reset switch, Hood opener"
+    },
+    {
+      "id": 10,
+      "text": "Tire pressure warning reset switch",
+      "size": "Very Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wipers and washer switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Rear window wiper and washer switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "SRS knee airbags",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Hood opener",
+          "proximity": "Adjacent",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Bottle holder",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "SRS knee airbags, Hood opener, Fuel filler door opener"
+    },
+    {
+      "id": 11,
+      "text": "Hood opener",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wipers and washer switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Rear window wiper and washer switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "SRS knee airbags",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Adjacent",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Bottle holder",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "SRS knee airbags, Tire pressure warning reset switch, Fuel filler door opener"
+    },
+    {
+      "id": 12,
+      "text": "Fuel filler door opener",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wipers and washer switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Rear window wiper and washer switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "SRS knee airbags",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Hood opener",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Bottle holder",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "SRS knee airbags, Tire pressure warning reset switch, Hood opener"
+    },
+    {
+      "id": 13,
+      "text": "Bottle holder",
+      "size": "Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Headlight switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Turn signal lever",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Fog light switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Gauges and meters",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Multi-information display",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Windshield wipers and washer switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Rear window wiper and washer switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Glove box",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "SRS knee airbags",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Tire pressure warning reset switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hood opener",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Fuel filler door opener",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "SRS knee airbags, Hood opener, Fuel filler door opener"
+    }
+  ]
+}

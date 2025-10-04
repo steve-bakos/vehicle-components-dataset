@@ -1,0 +1,765 @@
+{
+  "brand": "Lincoln",
+  "model": "2024 Nautilus",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "A.Exterior Lighting Control",
+      "size": "Medium",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "C.Instrument Cluster Overview",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Using the Controls on the Steering Wheel",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Push Button Ignition Switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Center Display Overview",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Opening the Center Console",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "J.Sitting in the Correct Position",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "K.Adjusting the Exterior Mirrors",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "B.Switching Adaptive Cruise Control On and Off, K.Adjusting the Exterior Mirrors, J.Sitting in the Correct Position"
+    },
+    {
+      "id": 2,
+      "text": "B.Switching Adaptive Cruise Control On and Off",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "C.Instrument Cluster Overview",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "D.Using the Controls on the Steering Wheel",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "E.Push Button Ignition Switch",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Center Display Overview",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Opening the Center Console",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "J.Sitting in the Correct Position",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "K.Adjusting the Exterior Mirrors",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "C.Instrument Cluster Overview, A.Exterior Lighting Control, D.Using the Controls on the Steering Wheel"
+    },
+    {
+      "id": 3,
+      "text": "C.Instrument Cluster Overview",
+      "size": "Very Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "D.Using the Controls on the Steering Wheel",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "E.Push Button Ignition Switch",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "G.Center Display Overview",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "H.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "I.Opening the Center Console",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "J.Sitting in the Correct Position",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "K.Adjusting the Exterior Mirrors",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "B.Switching Adaptive Cruise Control On and Off, D.Using the Controls on the Steering Wheel, A.Exterior Lighting Control"
+    },
+    {
+      "id": 4,
+      "text": "D.Using the Controls on the Steering Wheel",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Instrument Cluster Overview",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "E.Push Button Ignition Switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Center Display Overview",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Opening the Center Console",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "J.Sitting in the Correct Position",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "K.Adjusting the Exterior Mirrors",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "C.Instrument Cluster Overview, J.Sitting in the Correct Position, E.Push Button Ignition Switch"
+    },
+    {
+      "id": 5,
+      "text": "E.Push Button Ignition Switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Instrument Cluster Overview",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "D.Using the Controls on the Steering Wheel",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Center Display Overview",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "H.Switching the Hazard Flashers On and Off",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Opening the Center Console",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "J.Sitting in the Correct Position",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "K.Adjusting the Exterior Mirrors",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "C.Instrument Cluster Overview, J.Sitting in the Correct Position, G.Center Display Overview"
+    },
+    {
+      "id": 6,
+      "text": "F.Opening the Glove Compartment",
+      "size": "Medium",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Instrument Cluster Overview",
+          "proximity": "Very Far",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "D.Using the Controls on the Steering Wheel",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "E.Push Button Ignition Switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "G.Center Display Overview",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "H.Switching the Hazard Flashers On and Off",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "I.Opening the Center Console",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "J.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "K.Adjusting the Exterior Mirrors",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "C.Instrument Cluster Overview, H.Switching the Hazard Flashers On and Off, G.Center Display Overview"
+    },
+    {
+      "id": 7,
+      "text": "G.Center Display Overview",
+      "size": "Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "D.Using the Controls on the Steering Wheel",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "E.Push Button Ignition Switch",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Switching the Hazard Flashers On and Off",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "I.Opening the Center Console",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "J.Sitting in the Correct Position",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "K.Adjusting the Exterior Mirrors",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "C.Instrument Cluster Overview, H.Switching the Hazard Flashers On and Off, E.Push Button Ignition Switch"
+    },
+    {
+      "id": 8,
+      "text": "H.Switching the Hazard Flashers On and Off",
+      "size": "Medium",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "D.Using the Controls on the Steering Wheel",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "E.Push Button Ignition Switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "G.Center Display Overview",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "I.Opening the Center Console",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "J.Sitting in the Correct Position",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "K.Adjusting the Exterior Mirrors",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "G.Center Display Overview, I.Opening the Center Console, F.Opening the Glove Compartment"
+    },
+    {
+      "id": 9,
+      "text": "I.Opening the Center Console",
+      "size": "Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "D.Using the Controls on the Steering Wheel",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "E.Push Button Ignition Switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "G.Center Display Overview",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "H.Switching the Hazard Flashers On and Off",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "J.Sitting in the Correct Position",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "K.Adjusting the Exterior Mirrors",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "H.Switching the Hazard Flashers On and Off, J.Sitting in the Correct Position, F.Opening the Glove Compartment"
+    },
+    {
+      "id": 10,
+      "text": "J.Sitting in the Correct Position",
+      "size": "Very Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "C.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "D.Using the Controls on the Steering Wheel",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "E.Push Button Ignition Switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Center Display Overview",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Opening the Center Console",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "K.Adjusting the Exterior Mirrors",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "C.Instrument Cluster Overview, K.Adjusting the Exterior Mirrors, I.Opening the Center Console"
+    },
+    {
+      "id": 11,
+      "text": "K.Adjusting the Exterior Mirrors",
+      "size": "Medium",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "C.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Using the Controls on the Steering Wheel",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Push Button Ignition Switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Center Display Overview",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "I.Opening the Center Console",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "J.Sitting in the Correct Position",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "A.Exterior Lighting Control, J.Sitting in the Correct Position, H.Switching the Hazard Flashers On and Off"
+    }
+  ]
+}

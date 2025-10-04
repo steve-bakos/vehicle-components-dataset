@@ -1,0 +1,636 @@
+{
+  "brand": "Subaru",
+  "model": "2024_ascent",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "Seat position memory switch",
+      "size": "Very Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Power rear gate switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "One-touch Interior Illumination switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Camera for Driver Monitoring System",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering wheel",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "Combination meter, Hood release knob, Power rear gate switch"
+    },
+    {
+      "id": 2,
+      "text": "Power rear gate switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Seat position memory switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "One-touch Interior Illumination switch",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Camera for Driver Monitoring System",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering wheel",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Combination meter, Fuse box, One-touch Interior Illumination switch"
+    },
+    {
+      "id": 3,
+      "text": "One-touch Interior Illumination switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Seat position memory switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Power rear gate switch",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Camera for Driver Monitoring System",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering wheel",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Combination meter, Fuse box, Power rear gate switch"
+    },
+    {
+      "id": 4,
+      "text": "Illumination brightness control dial",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Seat position memory switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Power rear gate switch",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "One-touch Interior Illumination switch",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Camera for Driver Monitoring System",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering wheel",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Combination meter, Fuse box, One-touch Interior Illumination switch"
+    },
+    {
+      "id": 5,
+      "text": "Combination meter",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "Seat position memory switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Power rear gate switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "One-touch Interior Illumination switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Camera for Driver Monitoring System",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Tilt/Telescopic steering wheel",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Camera for Driver Monitoring System, Tilt/Telescopic steering wheel, Seat position memory switch"
+    },
+    {
+      "id": 6,
+      "text": "Hazard warning flasher switch",
+      "size": "Very Small",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "Seat position memory switch",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Power rear gate switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "One-touch Interior Illumination switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Camera for Driver Monitoring System",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Tilt/Telescopic steering wheel",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Camera for Driver Monitoring System, Combination meter, Tilt/Telescopic steering wheel"
+    },
+    {
+      "id": 7,
+      "text": "Camera for Driver Monitoring System",
+      "size": "Small",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "Seat position memory switch",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Power rear gate switch",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "One-touch Interior Illumination switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Tilt/Telescopic steering wheel",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Combination meter, Hazard warning flasher switch, Tilt/Telescopic steering wheel"
+    },
+    {
+      "id": 8,
+      "text": "Tilt/Telescopic steering wheel",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Seat position memory switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Power rear gate switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "One-touch Interior Illumination switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Camera for Driver Monitoring System",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "Combination meter, Fuse box, Hood release knob"
+    },
+    {
+      "id": 9,
+      "text": "Fuse box",
+      "size": "Medium",
+      "frequency": "Rare",
+      "relationships": [
+        {
+          "target": "Seat position memory switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Power rear gate switch",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "One-touch Interior Illumination switch",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Camera for Driver Monitoring System",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering wheel",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Adjacent",
+          "position": "Below-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "One-touch Interior Illumination switch, Hood release knob, Tilt/Telescopic steering wheel"
+    },
+    {
+      "id": 10,
+      "text": "Hood release knob",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Seat position memory switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Power rear gate switch",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "One-touch Interior Illumination switch",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Camera for Driver Monitoring System",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering wheel",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Adjacent",
+          "position": "Above-Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "Seat position memory switch, Fuse box, Power rear gate switch"
+    }
+  ]
+}

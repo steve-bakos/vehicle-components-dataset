@@ -1,0 +1,1224 @@
+{
+  "brand": "Subaru",
+  "model": "2023_crosstrek",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "Steering Responsive Headlight off switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Multi-function display (black and white)/Multi-function display (color LCD)",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Audio and navigation system",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Climate control",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "USB power supply",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "BSD/RCTA OFF switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Auto Start Stop OFF switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        }
+      ],
+      "landmarks": "Combination meter, Vehicle Dynamics Control OFF switch, Illumination brightness control dial"
+    },
+    {
+      "id": 2,
+      "text": "Illumination brightness control dial",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Steering Responsive Headlight off switch",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Multi-function display (black and white)/Multi-function display (color LCD)",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Audio and navigation system",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Climate control",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "USB power supply",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "BSD/RCTA OFF switch",
+          "proximity": "Adjacent",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Auto Start Stop OFF switch",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Adjacent",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Combination meter, Auto Start Stop OFF switch, Steering Responsive Headlight off switch"
+    },
+    {
+      "id": 3,
+      "text": "Combination meter",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "Steering Responsive Headlight off switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Multi-function display (black and white)/Multi-function display (color LCD)",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Audio and navigation system",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Climate control",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "USB power supply",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "BSD/RCTA OFF switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Auto Start Stop OFF switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Multi-function display (black and white)/Multi-function display (color LCD), Tilt/Telescopic steering, Audio and navigation system"
+    },
+    {
+      "id": 4,
+      "text": "Multi-function display (black and white)/Multi-function display (color LCD)",
+      "size": "Small",
+      "frequency": "Rare",
+      "relationships": [
+        {
+          "target": "Steering Responsive Headlight off switch",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Audio and navigation system",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Climate control",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "USB power supply",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "BSD/RCTA OFF switch",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Auto Start Stop OFF switch",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Combination meter, Audio and navigation system, Hazard warning flasher switch"
+    },
+    {
+      "id": 5,
+      "text": "Audio and navigation system",
+      "size": "Very Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Steering Responsive Headlight off switch",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Multi-function display (black and white)/Multi-function display (color LCD)",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Climate control",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "USB power supply",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "BSD/RCTA OFF switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Auto Start Stop OFF switch",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Multi-function display (black and white)/Multi-function display (color LCD), Hazard warning flasher switch, Combination meter"
+    },
+    {
+      "id": 6,
+      "text": "Hazard warning flasher switch",
+      "size": "Small",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "Steering Responsive Headlight off switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Multi-function display (black and white)/Multi-function display (color LCD)",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Audio and navigation system",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Climate control",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "USB power supply",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "BSD/RCTA OFF switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Auto Start Stop OFF switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Audio and navigation system, Climate control, Tilt/Telescopic steering"
+    },
+    {
+      "id": 7,
+      "text": "Climate control",
+      "size": "Medium",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Steering Responsive Headlight off switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Multi-function display (black and white)/Multi-function display (color LCD)",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Audio and navigation system",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "USB power supply",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "BSD/RCTA OFF switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Auto Start Stop OFF switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Hazard warning flasher switch, USB power supply, Tilt/Telescopic steering"
+    },
+    {
+      "id": 8,
+      "text": "USB power supply",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Steering Responsive Headlight off switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Multi-function display (black and white)/Multi-function display (color LCD)",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Audio and navigation system",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Climate control",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "BSD/RCTA OFF switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Auto Start Stop OFF switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Climate control, Hood release knob, Fuse box"
+    },
+    {
+      "id": 9,
+      "text": "Tilt/Telescopic steering",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Steering Responsive Headlight off switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Multi-function display (black and white)/Multi-function display (color LCD)",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Audio and navigation system",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Climate control",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "USB power supply",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "BSD/RCTA OFF switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Auto Start Stop OFF switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Combination meter, Fuse box, Climate control"
+    },
+    {
+      "id": 10,
+      "text": "BSD/RCTA OFF switch",
+      "size": "Very Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Steering Responsive Headlight off switch",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Adjacent",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Multi-function display (black and white)/Multi-function display (color LCD)",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Audio and navigation system",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Climate control",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "USB power supply",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Auto Start Stop OFF switch",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Illumination brightness control dial, Fuse box, Auto Start Stop OFF switch"
+    },
+    {
+      "id": 11,
+      "text": "Fuse box",
+      "size": "Medium",
+      "frequency": "Rare",
+      "relationships": [
+        {
+          "target": "Steering Responsive Headlight off switch",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Multi-function display (black and white)/Multi-function display (color LCD)",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Audio and navigation system",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Climate control",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "USB power supply",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "BSD/RCTA OFF switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Auto Start Stop OFF switch",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": false
+        }
+      ],
+      "landmarks": "BSD/RCTA OFF switch, Hood release knob, Tilt/Telescopic steering"
+    },
+    {
+      "id": 12,
+      "text": "Auto Start Stop OFF switch",
+      "size": "Very Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Steering Responsive Headlight off switch",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Multi-function display (black and white)/Multi-function display (color LCD)",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Audio and navigation system",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Climate control",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "USB power supply",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "BSD/RCTA OFF switch",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "Illumination brightness control dial, Fuse box, Vehicle Dynamics Control OFF switch"
+    },
+    {
+      "id": 13,
+      "text": "Hood release knob",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Steering Responsive Headlight off switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Multi-function display (black and white)/Multi-function display (color LCD)",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Audio and navigation system",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Climate control",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "USB power supply",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "BSD/RCTA OFF switch",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Auto Start Stop OFF switch",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "Fuse box, Vehicle Dynamics Control OFF switch, Tilt/Telescopic steering"
+    },
+    {
+      "id": 14,
+      "text": "Vehicle Dynamics Control OFF switch",
+      "size": "Very Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Steering Responsive Headlight off switch",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Adjacent",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Multi-function display (black and white)/Multi-function display (color LCD)",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Audio and navigation system",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Climate control",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "USB power supply",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "BSD/RCTA OFF switch",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Auto Start Stop OFF switch",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Steering Responsive Headlight off switch, Fuse box, Auto Start Stop OFF switch"
+    }
+  ]
+}

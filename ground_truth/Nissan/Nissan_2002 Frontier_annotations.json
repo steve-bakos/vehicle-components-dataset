@@ -1,0 +1,1791 @@
+{
+  "brand": "Nissan",
+  "model": "2002 Frontier",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "1.Headlight/turn signal switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "2.Meters and gauages",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "3.Windshield wiper/washer switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "4.Power point",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "5.Heater and air conditioner",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "6.Passenger air bag ON/OFF switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Passenger air bag ON/OFF switch light",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Front Passenger supplemental air bag",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Glove box",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Audio system",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Automatic/manual selector lever",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "13.Transfer case shift lever",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "14.Parking brake release lever",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "15.Cruise control main/set switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "16.Driver supplemental air bag",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "17.Steering wheel switch for audio controls",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "2.Meters and gauages, 17.Steering wheel switch for audio controls, 16.Driver supplemental air bag"
+    },
+    {
+      "id": 2,
+      "text": "2.Meters and gauages",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "1.Headlight/turn signal switch",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "3.Windshield wiper/washer switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "4.Power point",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "5.Heater and air conditioner",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "6.Passenger air bag ON/OFF switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Passenger air bag ON/OFF switch light",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Front Passenger supplemental air bag",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Glove box",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Audio system",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Automatic/manual selector lever",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "13.Transfer case shift lever",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "14.Parking brake release lever",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "15.Cruise control main/set switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "16.Driver supplemental air bag",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "17.Steering wheel switch for audio controls",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        }
+      ],
+      "landmarks": "1.Headlight/turn signal switch, 3.Windshield wiper/washer switch, 16.Driver supplemental air bag"
+    },
+    {
+      "id": 3,
+      "text": "3.Windshield wiper/washer switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Headlight/turn signal switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Meters and gauages",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "4.Power point",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "5.Heater and air conditioner",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Passenger air bag ON/OFF switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Passenger air bag ON/OFF switch light",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Front Passenger supplemental air bag",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "9.Glove box",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Audio system",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Hazard warning flasher switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Automatic/manual selector lever",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "13.Transfer case shift lever",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "14.Parking brake release lever",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "15.Cruise control main/set switch",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "16.Driver supplemental air bag",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "17.Steering wheel switch for audio controls",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "2.Meters and gauages, 14.Parking brake release lever, 16.Driver supplemental air bag"
+    },
+    {
+      "id": 4,
+      "text": "4.Power point",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Headlight/turn signal switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Meters and gauages",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "3.Windshield wiper/washer switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Heater and air conditioner",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "6.Passenger air bag ON/OFF switch",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "7.Passenger air bag ON/OFF switch light",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Front Passenger supplemental air bag",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Glove box",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Audio system",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "11.Hazard warning flasher switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Automatic/manual selector lever",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "13.Transfer case shift lever",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "14.Parking brake release lever",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "15.Cruise control main/set switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "16.Driver supplemental air bag",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "17.Steering wheel switch for audio controls",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "5.Heater and air conditioner, 10.Audio system, 6.Passenger air bag ON/OFF switch"
+    },
+    {
+      "id": 5,
+      "text": "5.Heater and air conditioner",
+      "size": "Medium",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Headlight/turn signal switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Meters and gauages",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "3.Windshield wiper/washer switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "4.Power point",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "6.Passenger air bag ON/OFF switch",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "7.Passenger air bag ON/OFF switch light",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "8.Front Passenger supplemental air bag",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "9.Glove box",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Audio system",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "11.Hazard warning flasher switch",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "12.Automatic/manual selector lever",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "13.Transfer case shift lever",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "14.Parking brake release lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "15.Cruise control main/set switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "16.Driver supplemental air bag",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "17.Steering wheel switch for audio controls",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "8.Front Passenger supplemental air bag, 6.Passenger air bag ON/OFF switch, 3.Windshield wiper/washer switch"
+    },
+    {
+      "id": 6,
+      "text": "6.Passenger air bag ON/OFF switch",
+      "size": "Very Small",
+      "frequency": "Rare",
+      "relationships": [
+        {
+          "target": "1.Headlight/turn signal switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Meters and gauages",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "3.Windshield wiper/washer switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Power point",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Heater and air conditioner",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "7.Passenger air bag ON/OFF switch light",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "8.Front Passenger supplemental air bag",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Glove box",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Audio system",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "11.Hazard warning flasher switch",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "12.Automatic/manual selector lever",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "13.Transfer case shift lever",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "14.Parking brake release lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "15.Cruise control main/set switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "16.Driver supplemental air bag",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "17.Steering wheel switch for audio controls",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "5.Heater and air conditioner, 10.Audio system, 7.Passenger air bag ON/OFF switch light"
+    },
+    {
+      "id": 7,
+      "text": "7.Passenger air bag ON/OFF switch light",
+      "size": "Very Small",
+      "frequency": "Rare",
+      "relationships": [
+        {
+          "target": "1.Headlight/turn signal switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Meters and gauages",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "3.Windshield wiper/washer switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Power point",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Heater and air conditioner",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "6.Passenger air bag ON/OFF switch",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "8.Front Passenger supplemental air bag",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Glove box",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Audio system",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "11.Hazard warning flasher switch",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "12.Automatic/manual selector lever",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Transfer case shift lever",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "14.Parking brake release lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "15.Cruise control main/set switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "16.Driver supplemental air bag",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "17.Steering wheel switch for audio controls",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "5.Heater and air conditioner, 10.Audio system, 6.Passenger air bag ON/OFF switch"
+    },
+    {
+      "id": 8,
+      "text": "8.Front Passenger supplemental air bag",
+      "size": "Very Large",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "1.Headlight/turn signal switch",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Meters and gauages",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "3.Windshield wiper/washer switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "4.Power point",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Heater and air conditioner",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "6.Passenger air bag ON/OFF switch",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "7.Passenger air bag ON/OFF switch light",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "9.Glove box",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "10.Audio system",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "11.Hazard warning flasher switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "12.Automatic/manual selector lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Transfer case shift lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "14.Parking brake release lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "15.Cruise control main/set switch",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "16.Driver supplemental air bag",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "17.Steering wheel switch for audio controls",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "2.Meters and gauages, 9.Glove box, 5.Heater and air conditioner"
+    },
+    {
+      "id": 9,
+      "text": "9.Glove box",
+      "size": "Very Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Headlight/turn signal switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Meters and gauages",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "3.Windshield wiper/washer switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Power point",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Heater and air conditioner",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Passenger air bag ON/OFF switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "7.Passenger air bag ON/OFF switch light",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "8.Front Passenger supplemental air bag",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "10.Audio system",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "11.Hazard warning flasher switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "12.Automatic/manual selector lever",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Transfer case shift lever",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "14.Parking brake release lever",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "15.Cruise control main/set switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "16.Driver supplemental air bag",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "17.Steering wheel switch for audio controls",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "8.Front Passenger supplemental air bag, 11.Hazard warning flasher switch, 10.Audio system"
+    },
+    {
+      "id": 10,
+      "text": "10.Audio system",
+      "size": "Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Headlight/turn signal switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Meters and gauages",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "3.Windshield wiper/washer switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Power point",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "5.Heater and air conditioner",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "6.Passenger air bag ON/OFF switch",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "7.Passenger air bag ON/OFF switch light",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "8.Front Passenger supplemental air bag",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Glove box",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "11.Hazard warning flasher switch",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "12.Automatic/manual selector lever",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "13.Transfer case shift lever",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "14.Parking brake release lever",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "15.Cruise control main/set switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "16.Driver supplemental air bag",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "17.Steering wheel switch for audio controls",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "6.Passenger air bag ON/OFF switch, 11.Hazard warning flasher switch, 9.Glove box"
+    },
+    {
+      "id": 11,
+      "text": "11.Hazard warning flasher switch",
+      "size": "Small",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "1.Headlight/turn signal switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Meters and gauages",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "3.Windshield wiper/washer switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Power point",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Heater and air conditioner",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "6.Passenger air bag ON/OFF switch",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "7.Passenger air bag ON/OFF switch light",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "8.Front Passenger supplemental air bag",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Glove box",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "10.Audio system",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "12.Automatic/manual selector lever",
+          "proximity": "Adjacent",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "13.Transfer case shift lever",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "14.Parking brake release lever",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "15.Cruise control main/set switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "16.Driver supplemental air bag",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "17.Steering wheel switch for audio controls",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "10.Audio system, 12.Automatic/manual selector lever, 9.Glove box"
+    },
+    {
+      "id": 12,
+      "text": "12.Automatic/manual selector lever",
+      "size": "Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Headlight/turn signal switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Meters and gauages",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "3.Windshield wiper/washer switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Power point",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Heater and air conditioner",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "6.Passenger air bag ON/OFF switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "7.Passenger air bag ON/OFF switch light",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Front Passenger supplemental air bag",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Glove box",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Audio system",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "11.Hazard warning flasher switch",
+          "proximity": "Adjacent",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "13.Transfer case shift lever",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "14.Parking brake release lever",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "15.Cruise control main/set switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "16.Driver supplemental air bag",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "17.Steering wheel switch for audio controls",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "11.Hazard warning flasher switch, 13.Transfer case shift lever, 10.Audio system"
+    },
+    {
+      "id": 13,
+      "text": "13.Transfer case shift lever",
+      "size": "Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Headlight/turn signal switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Meters and gauages",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "3.Windshield wiper/washer switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Power point",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "5.Heater and air conditioner",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "6.Passenger air bag ON/OFF switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Passenger air bag ON/OFF switch light",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Front Passenger supplemental air bag",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Glove box",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Audio system",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "11.Hazard warning flasher switch",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "12.Automatic/manual selector lever",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "14.Parking brake release lever",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "15.Cruise control main/set switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "16.Driver supplemental air bag",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "17.Steering wheel switch for audio controls",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "10.Audio system, 11.Hazard warning flasher switch, 12.Automatic/manual selector lever"
+    },
+    {
+      "id": 14,
+      "text": "14.Parking brake release lever",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Headlight/turn signal switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Meters and gauages",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "3.Windshield wiper/washer switch",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "4.Power point",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "5.Heater and air conditioner",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "6.Passenger air bag ON/OFF switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Passenger air bag ON/OFF switch light",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Front Passenger supplemental air bag",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Glove box",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Audio system",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Hazard warning flasher switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Automatic/manual selector lever",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "13.Transfer case shift lever",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "15.Cruise control main/set switch",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "16.Driver supplemental air bag",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "17.Steering wheel switch for audio controls",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "3.Windshield wiper/washer switch, 13.Transfer case shift lever, 15.Cruise control main/set switch"
+    },
+    {
+      "id": 15,
+      "text": "15.Cruise control main/set switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Headlight/turn signal switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Meters and gauages",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "3.Windshield wiper/washer switch",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "4.Power point",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "5.Heater and air conditioner",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "6.Passenger air bag ON/OFF switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Passenger air bag ON/OFF switch light",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Front Passenger supplemental air bag",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Glove box",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Audio system",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Automatic/manual selector lever",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "13.Transfer case shift lever",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "14.Parking brake release lever",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "16.Driver supplemental air bag",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "17.Steering wheel switch for audio controls",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "2.Meters and gauages, 14.Parking brake release lever, 16.Driver supplemental air bag"
+    },
+    {
+      "id": 16,
+      "text": "16.Driver supplemental air bag",
+      "size": "Large",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "1.Headlight/turn signal switch",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Meters and gauages",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "3.Windshield wiper/washer switch",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "4.Power point",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "5.Heater and air conditioner",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "6.Passenger air bag ON/OFF switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Passenger air bag ON/OFF switch light",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Front Passenger supplemental air bag",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Glove box",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Audio system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Automatic/manual selector lever",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "13.Transfer case shift lever",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "14.Parking brake release lever",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "15.Cruise control main/set switch",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "17.Steering wheel switch for audio controls",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "2.Meters and gauages, 14.Parking brake release lever, 17.Steering wheel switch for audio controls"
+    },
+    {
+      "id": 17,
+      "text": "17.Steering wheel switch for audio controls",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Headlight/turn signal switch",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Meters and gauages",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "3.Windshield wiper/washer switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "4.Power point",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "5.Heater and air conditioner",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "6.Passenger air bag ON/OFF switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Passenger air bag ON/OFF switch light",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Front Passenger supplemental air bag",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Glove box",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Audio system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "12.Automatic/manual selector lever",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "13.Transfer case shift lever",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "14.Parking brake release lever",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "15.Cruise control main/set switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "16.Driver supplemental air bag",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "2.Meters and gauages, 14.Parking brake release lever, 16.Driver supplemental air bag"
+    }
+  ]
+}

@@ -1,0 +1,2492 @@
+{
+  "brand": "Chevrolet",
+  "model": "2024 Colorado",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "1.Air Vents",
+      "size": "Medium",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "2.Turn Signal Lever",
+          "proximity": "Close",
+          "position": "Right"
+        },
+        {
+          "target": "3.Instrument Cluster",
+          "proximity": "Close",
+          "position": "Right"
+        },
+        {
+          "target": "4.ENGINE START/STOP Button",
+          "proximity": "Moderate",
+          "position": "Below-Right"
+        },
+        {
+          "target": "5.Infotainment Display",
+          "proximity": "Moderate",
+          "position": "Above-Right"
+        },
+        {
+          "target": "6.Infotainment Controls",
+          "proximity": "Far",
+          "position": "Right"
+        },
+        {
+          "target": "7.Light Sensor",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "8.Climate Control System",
+          "proximity": "Far",
+          "position": "Right"
+        },
+        {
+          "target": "9.Locking Front Axle",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "10.Shift Lever",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "11.Wireless Charging",
+          "proximity": "Very Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "12.Electric Parking Brake",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "13.Transfer Case Knob",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "14.USB Port",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "15.Steering Wheel Controls",
+          "proximity": "Moderate",
+          "position": "Below-Right"
+        },
+        {
+          "target": "16.Horn",
+          "proximity": "Close",
+          "position": "Below-Right"
+        },
+        {
+          "target": "17.Hood Release",
+          "proximity": "Moderate",
+          "position": "Below-Right"
+        },
+        {
+          "target": "18.Steering Wheel Adjustment",
+          "proximity": "Moderate",
+          "position": "Below-Right"
+        },
+        {
+          "target": "19.Cruise Control",
+          "proximity": "Close",
+          "position": "Below-Right"
+        },
+        {
+          "target": "20.DataLinkConnector",
+          "proximity": "Moderate",
+          "position": "Below-Right"
+        },
+        {
+          "target": "21.Instrument Panel Illumination Control",
+          "proximity": "Close",
+          "position": "Below-Right"
+        },
+        {
+          "target": "22.Trailer Brake Control Panel",
+          "proximity": "Close",
+          "position": "Below"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "2.Turn Signal Lever",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Air Vents",
+          "proximity": "Close",
+          "position": "Left"
+        },
+        {
+          "target": "3.Instrument Cluster",
+          "proximity": "Close",
+          "position": "Above-Right"
+        },
+        {
+          "target": "4.ENGINE START/STOP Button",
+          "proximity": "Moderate",
+          "position": "Right"
+        },
+        {
+          "target": "5.Infotainment Display",
+          "proximity": "Moderate",
+          "position": "Above-Right"
+        },
+        {
+          "target": "6.Infotainment Controls",
+          "proximity": "Moderate",
+          "position": "Above-Right"
+        },
+        {
+          "target": "7.Light Sensor",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "8.Climate Control System",
+          "proximity": "Moderate",
+          "position": "Right"
+        },
+        {
+          "target": "9.Locking Front Axle",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "10.Shift Lever",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "11.Wireless Charging",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "12.Electric Parking Brake",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "13.Transfer Case Knob",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "14.USB Port",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "15.Steering Wheel Controls",
+          "proximity": "Moderate",
+          "position": "Below-Right"
+        },
+        {
+          "target": "16.Horn",
+          "proximity": "Close",
+          "position": "Below-Right"
+        },
+        {
+          "target": "17.Hood Release",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "18.Steering Wheel Adjustment",
+          "proximity": "Moderate",
+          "position": "Below-Right"
+        },
+        {
+          "target": "19.Cruise Control",
+          "proximity": "Close",
+          "position": "Below"
+        },
+        {
+          "target": "20.DataLinkConnector",
+          "proximity": "Far",
+          "position": "Below"
+        },
+        {
+          "target": "21.Instrument Panel Illumination Control",
+          "proximity": "Close",
+          "position": "Below"
+        },
+        {
+          "target": "22.Trailer Brake Control Panel",
+          "proximity": "Close",
+          "position": "Below-Left"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "3.Instrument Cluster",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "1.Air Vents",
+          "proximity": "Close",
+          "position": "Left"
+        },
+        {
+          "target": "2.Turn Signal Lever",
+          "proximity": "Close",
+          "position": "Below-Left"
+        },
+        {
+          "target": "4.ENGINE START/STOP Button",
+          "proximity": "Close",
+          "position": "Below-Right"
+        },
+        {
+          "target": "5.Infotainment Display",
+          "proximity": "Close",
+          "position": "Left"
+        },
+        {
+          "target": "6.Infotainment Controls",
+          "proximity": "Close",
+          "position": "Right"
+        },
+        {
+          "target": "7.Light Sensor",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "8.Climate Control System",
+          "proximity": "Moderate",
+          "position": "Below-Right"
+        },
+        {
+          "target": "9.Locking Front Axle",
+          "proximity": "Moderate",
+          "position": "Below-Right"
+        },
+        {
+          "target": "10.Shift Lever",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "11.Wireless Charging",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "12.Electric Parking Brake",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "13.Transfer Case Knob",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "14.USB Port",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "15.Steering Wheel Controls",
+          "proximity": "Close",
+          "position": "Below"
+        },
+        {
+          "target": "16.Horn",
+          "proximity": "Close",
+          "position": "Below"
+        },
+        {
+          "target": "17.Hood Release",
+          "proximity": "Far",
+          "position": "Below"
+        },
+        {
+          "target": "18.Steering Wheel Adjustment",
+          "proximity": "Far",
+          "position": "Below"
+        },
+        {
+          "target": "19.Cruise Control",
+          "proximity": "Moderate",
+          "position": "Below-Left"
+        },
+        {
+          "target": "20.DataLinkConnector",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "21.Instrument Panel Illumination Control",
+          "proximity": "Moderate",
+          "position": "Below-Left"
+        },
+        {
+          "target": "22.Trailer Brake Control Panel",
+          "proximity": "Moderate",
+          "position": "Below-Left"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "4.ENGINE START/STOP Button",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Air Vents",
+          "proximity": "Moderate",
+          "position": "Above-Left"
+        },
+        {
+          "target": "2.Turn Signal Lever",
+          "proximity": "Moderate",
+          "position": "Left"
+        },
+        {
+          "target": "3.Instrument Cluster",
+          "proximity": "Close",
+          "position": "Above-Left"
+        },
+        {
+          "target": "5.Infotainment Display",
+          "proximity": "Close",
+          "position": "Above-Right"
+        },
+        {
+          "target": "6.Infotainment Controls",
+          "proximity": "Adjacent",
+          "position": "Above-Right"
+        },
+        {
+          "target": "7.Light Sensor",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "8.Climate Control System",
+          "proximity": "Moderate",
+          "position": "Right"
+        },
+        {
+          "target": "9.Locking Front Axle",
+          "proximity": "Moderate",
+          "position": "Below-Right"
+        },
+        {
+          "target": "10.Shift Lever",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "11.Wireless Charging",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "12.Electric Parking Brake",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "13.Transfer Case Knob",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "14.USB Port",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "15.Steering Wheel Controls",
+          "proximity": "Close",
+          "position": "Below-Left"
+        },
+        {
+          "target": "16.Horn",
+          "proximity": "Close",
+          "position": "Below-Left"
+        },
+        {
+          "target": "17.Hood Release",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "18.Steering Wheel Adjustment",
+          "proximity": "Moderate",
+          "position": "Below-Left"
+        },
+        {
+          "target": "19.Cruise Control",
+          "proximity": "Moderate",
+          "position": "Below-Left"
+        },
+        {
+          "target": "20.DataLinkConnector",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "21.Instrument Panel Illumination Control",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "22.Trailer Brake Control Panel",
+          "proximity": "Far",
+          "position": "Below-Left"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "5.Infotainment Display",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Air Vents",
+          "proximity": "Moderate",
+          "position": "Below-Left"
+        },
+        {
+          "target": "2.Turn Signal Lever",
+          "proximity": "Moderate",
+          "position": "Below-Left"
+        },
+        {
+          "target": "3.Instrument Cluster",
+          "proximity": "Close",
+          "position": "Right"
+        },
+        {
+          "target": "4.ENGINE START/STOP Button",
+          "proximity": "Close",
+          "position": "Below-Left"
+        },
+        {
+          "target": "6.Infotainment Controls",
+          "proximity": "Far",
+          "position": "Right"
+        },
+        {
+          "target": "7.Light Sensor",
+          "proximity": "Moderate",
+          "position": "Above-Right"
+        },
+        {
+          "target": "8.Climate Control System",
+          "proximity": "Moderate",
+          "position": "Below-Right"
+        },
+        {
+          "target": "9.Locking Front Axle",
+          "proximity": "Moderate",
+          "position": "Below-Right"
+        },
+        {
+          "target": "10.Shift Lever",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "11.Wireless Charging",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "12.Electric Parking Brake",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "13.Transfer Case Knob",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "14.USB Port",
+          "proximity": "Moderate",
+          "position": "Below-Right"
+        },
+        {
+          "target": "15.Steering Wheel Controls",
+          "proximity": "Moderate",
+          "position": "Below-Left"
+        },
+        {
+          "target": "16.Horn",
+          "proximity": "Moderate",
+          "position": "Below-Left"
+        },
+        {
+          "target": "17.Hood Release",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "18.Steering Wheel Adjustment",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "19.Cruise Control",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "20.DataLinkConnector",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "21.Instrument Panel Illumination Control",
+          "proximity": "Very Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "22.Trailer Brake Control Panel",
+          "proximity": "Very Far",
+          "position": "Below-Left"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "6.Infotainment Controls",
+      "size": "Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Air Vents",
+          "proximity": "Far",
+          "position": "Left"
+        },
+        {
+          "target": "2.Turn Signal Lever",
+          "proximity": "Moderate",
+          "position": "Below-Left"
+        },
+        {
+          "target": "3.Instrument Cluster",
+          "proximity": "Close",
+          "position": "Left"
+        },
+        {
+          "target": "4.ENGINE START/STOP Button",
+          "proximity": "Adjacent",
+          "position": "Below-Left"
+        },
+        {
+          "target": "5.Infotainment Display",
+          "proximity": "Far",
+          "position": "Left"
+        },
+        {
+          "target": "7.Light Sensor",
+          "proximity": "Close",
+          "position": "Above"
+        },
+        {
+          "target": "8.Climate Control System",
+          "proximity": "Close",
+          "position": "Below"
+        },
+        {
+          "target": "9.Locking Front Axle",
+          "proximity": "Moderate",
+          "position": "Below"
+        },
+        {
+          "target": "10.Shift Lever",
+          "proximity": "Far",
+          "position": "Below"
+        },
+        {
+          "target": "11.Wireless Charging",
+          "proximity": "Far",
+          "position": "Below"
+        },
+        {
+          "target": "12.Electric Parking Brake",
+          "proximity": "Far",
+          "position": "Below"
+        },
+        {
+          "target": "13.Transfer Case Knob",
+          "proximity": "Far",
+          "position": "Below"
+        },
+        {
+          "target": "14.USB Port",
+          "proximity": "Moderate",
+          "position": "Below"
+        },
+        {
+          "target": "15.Steering Wheel Controls",
+          "proximity": "Moderate",
+          "position": "Below-Left"
+        },
+        {
+          "target": "16.Horn",
+          "proximity": "Moderate",
+          "position": "Below-Left"
+        },
+        {
+          "target": "17.Hood Release",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "18.Steering Wheel Adjustment",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "19.Cruise Control",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "20.DataLinkConnector",
+          "proximity": "Very Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "21.Instrument Panel Illumination Control",
+          "proximity": "Very Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "22.Trailer Brake Control Panel",
+          "proximity": "Very Far",
+          "position": "Below-Left"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "7.Light Sensor",
+      "size": "Small",
+      "frequency": "Rare",
+      "relationships": [
+        {
+          "target": "1.Air Vents",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "2.Turn Signal Lever",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "3.Instrument Cluster",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "4.ENGINE START/STOP Button",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "5.Infotainment Display",
+          "proximity": "Moderate",
+          "position": "Below-Left"
+        },
+        {
+          "target": "6.Infotainment Controls",
+          "proximity": "Close",
+          "position": "Below"
+        },
+        {
+          "target": "8.Climate Control System",
+          "proximity": "Moderate",
+          "position": "Below"
+        },
+        {
+          "target": "9.Locking Front Axle",
+          "proximity": "Moderate",
+          "position": "Below"
+        },
+        {
+          "target": "10.Shift Lever",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "11.Wireless Charging",
+          "proximity": "Far",
+          "position": "Below"
+        },
+        {
+          "target": "12.Electric Parking Brake",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "13.Transfer Case Knob",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "14.USB Port",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "15.Steering Wheel Controls",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "16.Horn",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "17.Hood Release",
+          "proximity": "Very Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "18.Steering Wheel Adjustment",
+          "proximity": "Very Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "19.Cruise Control",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "20.DataLinkConnector",
+          "proximity": "Very Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "21.Instrument Panel Illumination Control",
+          "proximity": "Very Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "22.Trailer Brake Control Panel",
+          "proximity": "Very Far",
+          "position": "Below-Left"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "8.Climate Control System",
+      "size": "Medium",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Air Vents",
+          "proximity": "Far",
+          "position": "Left"
+        },
+        {
+          "target": "2.Turn Signal Lever",
+          "proximity": "Moderate",
+          "position": "Left"
+        },
+        {
+          "target": "3.Instrument Cluster",
+          "proximity": "Moderate",
+          "position": "Above-Left"
+        },
+        {
+          "target": "4.ENGINE START/STOP Button",
+          "proximity": "Moderate",
+          "position": "Left"
+        },
+        {
+          "target": "5.Infotainment Display",
+          "proximity": "Moderate",
+          "position": "Above-Left"
+        },
+        {
+          "target": "6.Infotainment Controls",
+          "proximity": "Close",
+          "position": "Above"
+        },
+        {
+          "target": "7.Light Sensor",
+          "proximity": "Moderate",
+          "position": "Above"
+        },
+        {
+          "target": "9.Locking Front Axle",
+          "proximity": "Close",
+          "position": "Below"
+        },
+        {
+          "target": "10.Shift Lever",
+          "proximity": "Moderate",
+          "position": "Below"
+        },
+        {
+          "target": "11.Wireless Charging",
+          "proximity": "Moderate",
+          "position": "Below"
+        },
+        {
+          "target": "12.Electric Parking Brake",
+          "proximity": "Far",
+          "position": "Below"
+        },
+        {
+          "target": "13.Transfer Case Knob",
+          "proximity": "Far",
+          "position": "Below"
+        },
+        {
+          "target": "14.USB Port",
+          "proximity": "Close",
+          "position": "Below"
+        },
+        {
+          "target": "15.Steering Wheel Controls",
+          "proximity": "Moderate",
+          "position": "Below-Left"
+        },
+        {
+          "target": "16.Horn",
+          "proximity": "Far",
+          "position": "Left"
+        },
+        {
+          "target": "17.Hood Release",
+          "proximity": "Very Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "18.Steering Wheel Adjustment",
+          "proximity": "Very Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "19.Cruise Control",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "20.DataLinkConnector",
+          "proximity": "Very Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "21.Instrument Panel Illumination Control",
+          "proximity": "Very Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "22.Trailer Brake Control Panel",
+          "proximity": "Very Far",
+          "position": "Below-Left"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "9.Locking Front Axle",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "1.Air Vents",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "2.Turn Signal Lever",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "3.Instrument Cluster",
+          "proximity": "Moderate",
+          "position": "Above-Left"
+        },
+        {
+          "target": "4.ENGINE START/STOP Button",
+          "proximity": "Moderate",
+          "position": "Above-Left"
+        },
+        {
+          "target": "5.Infotainment Display",
+          "proximity": "Moderate",
+          "position": "Above-Left"
+        },
+        {
+          "target": "6.Infotainment Controls",
+          "proximity": "Moderate",
+          "position": "Above"
+        },
+        {
+          "target": "7.Light Sensor",
+          "proximity": "Moderate",
+          "position": "Above"
+        },
+        {
+          "target": "8.Climate Control System",
+          "proximity": "Close",
+          "position": "Above"
+        },
+        {
+          "target": "10.Shift Lever",
+          "proximity": "Close",
+          "position": "Below"
+        },
+        {
+          "target": "11.Wireless Charging",
+          "proximity": "Adjacent",
+          "position": "Below"
+        },
+        {
+          "target": "12.Electric Parking Brake",
+          "proximity": "Moderate",
+          "position": "Below"
+        },
+        {
+          "target": "13.Transfer Case Knob",
+          "proximity": "Moderate",
+          "position": "Below"
+        },
+        {
+          "target": "14.USB Port",
+          "proximity": "Adjacent",
+          "position": "Below"
+        },
+        {
+          "target": "15.Steering Wheel Controls",
+          "proximity": "Moderate",
+          "position": "Above-Left"
+        },
+        {
+          "target": "16.Horn",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "17.Hood Release",
+          "proximity": "Very Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "18.Steering Wheel Adjustment",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "19.Cruise Control",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "20.DataLinkConnector",
+          "proximity": "Very Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "21.Instrument Panel Illumination Control",
+          "proximity": "Very Far",
+          "position": "Left"
+        },
+        {
+          "target": "22.Trailer Brake Control Panel",
+          "proximity": "Very Far",
+          "position": "Left"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "10.Shift Lever",
+      "size": "Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Air Vents",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "2.Turn Signal Lever",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "3.Instrument Cluster",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "4.ENGINE START/STOP Button",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "5.Infotainment Display",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "6.Infotainment Controls",
+          "proximity": "Far",
+          "position": "Above"
+        },
+        {
+          "target": "7.Light Sensor",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "8.Climate Control System",
+          "proximity": "Moderate",
+          "position": "Above"
+        },
+        {
+          "target": "9.Locking Front Axle",
+          "proximity": "Close",
+          "position": "Above"
+        },
+        {
+          "target": "11.Wireless Charging",
+          "proximity": "Close",
+          "position": "Above"
+        },
+        {
+          "target": "12.Electric Parking Brake",
+          "proximity": "Close",
+          "position": "Left"
+        },
+        {
+          "target": "13.Transfer Case Knob",
+          "proximity": "Close",
+          "position": "Left"
+        },
+        {
+          "target": "14.USB Port",
+          "proximity": "Close",
+          "position": "Above-Left"
+        },
+        {
+          "target": "15.Steering Wheel Controls",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "16.Horn",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "17.Hood Release",
+          "proximity": "Far",
+          "position": "Left"
+        },
+        {
+          "target": "18.Steering Wheel Adjustment",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "19.Cruise Control",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "20.DataLinkConnector",
+          "proximity": "Very Far",
+          "position": "Left"
+        },
+        {
+          "target": "21.Instrument Panel Illumination Control",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "22.Trailer Brake Control Panel",
+          "proximity": "Very Far",
+          "position": "Left"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "11.Wireless Charging",
+      "size": "Medium",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Air Vents",
+          "proximity": "Very Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "2.Turn Signal Lever",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "3.Instrument Cluster",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "4.ENGINE START/STOP Button",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "5.Infotainment Display",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "6.Infotainment Controls",
+          "proximity": "Far",
+          "position": "Above"
+        },
+        {
+          "target": "7.Light Sensor",
+          "proximity": "Far",
+          "position": "Above"
+        },
+        {
+          "target": "8.Climate Control System",
+          "proximity": "Moderate",
+          "position": "Above"
+        },
+        {
+          "target": "9.Locking Front Axle",
+          "proximity": "Adjacent",
+          "position": "Above"
+        },
+        {
+          "target": "10.Shift Lever",
+          "proximity": "Close",
+          "position": "Below"
+        },
+        {
+          "target": "12.Electric Parking Brake",
+          "proximity": "Close",
+          "position": "Below"
+        },
+        {
+          "target": "13.Transfer Case Knob",
+          "proximity": "Adjacent",
+          "position": "Below"
+        },
+        {
+          "target": "14.USB Port",
+          "proximity": "Adjacent",
+          "position": "Above"
+        },
+        {
+          "target": "15.Steering Wheel Controls",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "16.Horn",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "17.Hood Release",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "18.Steering Wheel Adjustment",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "19.Cruise Control",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "20.DataLinkConnector",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "21.Instrument Panel Illumination Control",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "22.Trailer Brake Control Panel",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "12.Electric Parking Brake",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Air Vents",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "2.Turn Signal Lever",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "3.Instrument Cluster",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "4.ENGINE START/STOP Button",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "5.Infotainment Display",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "6.Infotainment Controls",
+          "proximity": "Far",
+          "position": "Above"
+        },
+        {
+          "target": "7.Light Sensor",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "8.Climate Control System",
+          "proximity": "Far",
+          "position": "Above"
+        },
+        {
+          "target": "9.Locking Front Axle",
+          "proximity": "Moderate",
+          "position": "Above"
+        },
+        {
+          "target": "10.Shift Lever",
+          "proximity": "Close",
+          "position": "Right"
+        },
+        {
+          "target": "11.Wireless Charging",
+          "proximity": "Close",
+          "position": "Above"
+        },
+        {
+          "target": "13.Transfer Case Knob",
+          "proximity": "Adjacent",
+          "position": "Above"
+        },
+        {
+          "target": "14.USB Port",
+          "proximity": "Close",
+          "position": "Above"
+        },
+        {
+          "target": "15.Steering Wheel Controls",
+          "proximity": "Moderate",
+          "position": "Above-Left"
+        },
+        {
+          "target": "16.Horn",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "17.Hood Release",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "18.Steering Wheel Adjustment",
+          "proximity": "Very Far",
+          "position": "Right"
+        },
+        {
+          "target": "19.Cruise Control",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "20.DataLinkConnector",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "21.Instrument Panel Illumination Control",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "22.Trailer Brake Control Panel",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "13.Transfer Case Knob",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Air Vents",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "2.Turn Signal Lever",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "3.Instrument Cluster",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "4.ENGINE START/STOP Button",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "5.Infotainment Display",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "6.Infotainment Controls",
+          "proximity": "Far",
+          "position": "Above"
+        },
+        {
+          "target": "7.Light Sensor",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "8.Climate Control System",
+          "proximity": "Far",
+          "position": "Above"
+        },
+        {
+          "target": "9.Locking Front Axle",
+          "proximity": "Moderate",
+          "position": "Above"
+        },
+        {
+          "target": "10.Shift Lever",
+          "proximity": "Close",
+          "position": "Right"
+        },
+        {
+          "target": "11.Wireless Charging",
+          "proximity": "Adjacent",
+          "position": "Above"
+        },
+        {
+          "target": "12.Electric Parking Brake",
+          "proximity": "Adjacent",
+          "position": "Below"
+        },
+        {
+          "target": "14.USB Port",
+          "proximity": "Close",
+          "position": "Above"
+        },
+        {
+          "target": "15.Steering Wheel Controls",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "16.Horn",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "17.Hood Release",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "18.Steering Wheel Adjustment",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "19.Cruise Control",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "20.DataLinkConnector",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "21.Instrument Panel Illumination Control",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "22.Trailer Brake Control Panel",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "14.USB Port",
+      "size": "Very Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Air Vents",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "2.Turn Signal Lever",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "3.Instrument Cluster",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "4.ENGINE START/STOP Button",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "5.Infotainment Display",
+          "proximity": "Moderate",
+          "position": "Above-Left"
+        },
+        {
+          "target": "6.Infotainment Controls",
+          "proximity": "Moderate",
+          "position": "Above"
+        },
+        {
+          "target": "7.Light Sensor",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "8.Climate Control System",
+          "proximity": "Close",
+          "position": "Above"
+        },
+        {
+          "target": "9.Locking Front Axle",
+          "proximity": "Adjacent",
+          "position": "Above"
+        },
+        {
+          "target": "10.Shift Lever",
+          "proximity": "Close",
+          "position": "Below-Right"
+        },
+        {
+          "target": "11.Wireless Charging",
+          "proximity": "Adjacent",
+          "position": "Below"
+        },
+        {
+          "target": "12.Electric Parking Brake",
+          "proximity": "Close",
+          "position": "Below"
+        },
+        {
+          "target": "13.Transfer Case Knob",
+          "proximity": "Close",
+          "position": "Below"
+        },
+        {
+          "target": "15.Steering Wheel Controls",
+          "proximity": "Moderate",
+          "position": "Above-Left"
+        },
+        {
+          "target": "16.Horn",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "17.Hood Release",
+          "proximity": "Far",
+          "position": "Left"
+        },
+        {
+          "target": "18.Steering Wheel Adjustment",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "19.Cruise Control",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "20.DataLinkConnector",
+          "proximity": "Very Far",
+          "position": "Left"
+        },
+        {
+          "target": "21.Instrument Panel Illumination Control",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "22.Trailer Brake Control Panel",
+          "proximity": "Very Far",
+          "position": "Above-Left"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "15.Steering Wheel Controls",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Air Vents",
+          "proximity": "Moderate",
+          "position": "Above-Left"
+        },
+        {
+          "target": "2.Turn Signal Lever",
+          "proximity": "Moderate",
+          "position": "Above-Left"
+        },
+        {
+          "target": "3.Instrument Cluster",
+          "proximity": "Close",
+          "position": "Above"
+        },
+        {
+          "target": "4.ENGINE START/STOP Button",
+          "proximity": "Close",
+          "position": "Above-Left"
+        },
+        {
+          "target": "5.Infotainment Display",
+          "proximity": "Moderate",
+          "position": "Above-Right"
+        },
+        {
+          "target": "6.Infotainment Controls",
+          "proximity": "Moderate",
+          "position": "Above-Right"
+        },
+        {
+          "target": "7.Light Sensor",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "8.Climate Control System",
+          "proximity": "Moderate",
+          "position": "Above-Right"
+        },
+        {
+          "target": "9.Locking Front Axle",
+          "proximity": "Moderate",
+          "position": "Below-Right"
+        },
+        {
+          "target": "10.Shift Lever",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "11.Wireless Charging",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "12.Electric Parking Brake",
+          "proximity": "Moderate",
+          "position": "Below-Right"
+        },
+        {
+          "target": "13.Transfer Case Knob",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "14.USB Port",
+          "proximity": "Moderate",
+          "position": "Below-Right"
+        },
+        {
+          "target": "16.Horn",
+          "proximity": "Adjacent",
+          "position": "Left"
+        },
+        {
+          "target": "17.Hood Release",
+          "proximity": "Moderate",
+          "position": "Below-Left"
+        },
+        {
+          "target": "18.Steering Wheel Adjustment",
+          "proximity": "Moderate",
+          "position": "Below-Left"
+        },
+        {
+          "target": "19.Cruise Control",
+          "proximity": "Moderate",
+          "position": "Left"
+        },
+        {
+          "target": "20.DataLinkConnector",
+          "proximity": "Far",
+          "position": "Below-Left"
+        },
+        {
+          "target": "21.Instrument Panel Illumination Control",
+          "proximity": "Moderate",
+          "position": "Left"
+        },
+        {
+          "target": "22.Trailer Brake Control Panel",
+          "proximity": "Moderate",
+          "position": "Below-Left"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "16.Horn",
+      "size": "Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Air Vents",
+          "proximity": "Close",
+          "position": "Above-Left"
+        },
+        {
+          "target": "2.Turn Signal Lever",
+          "proximity": "Close",
+          "position": "Above-Left"
+        },
+        {
+          "target": "3.Instrument Cluster",
+          "proximity": "Close",
+          "position": "Above"
+        },
+        {
+          "target": "4.ENGINE START/STOP Button",
+          "proximity": "Close",
+          "position": "Above-Right"
+        },
+        {
+          "target": "5.Infotainment Display",
+          "proximity": "Moderate",
+          "position": "Above-Right"
+        },
+        {
+          "target": "6.Infotainment Controls",
+          "proximity": "Moderate",
+          "position": "Above-Right"
+        },
+        {
+          "target": "7.Light Sensor",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "8.Climate Control System",
+          "proximity": "Far",
+          "position": "Right"
+        },
+        {
+          "target": "9.Locking Front Axle",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "10.Shift Lever",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "11.Wireless Charging",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "12.Electric Parking Brake",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "13.Transfer Case Knob",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "14.USB Port",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "15.Steering Wheel Controls",
+          "proximity": "Adjacent",
+          "position": "Right"
+        },
+        {
+          "target": "17.Hood Release",
+          "proximity": "Moderate",
+          "position": "Below"
+        },
+        {
+          "target": "18.Steering Wheel Adjustment",
+          "proximity": "Moderate",
+          "position": "Below"
+        },
+        {
+          "target": "19.Cruise Control",
+          "proximity": "Close",
+          "position": "Left"
+        },
+        {
+          "target": "20.DataLinkConnector",
+          "proximity": "Moderate",
+          "position": "Below-Left"
+        },
+        {
+          "target": "21.Instrument Panel Illumination Control",
+          "proximity": "Close",
+          "position": "Left"
+        },
+        {
+          "target": "22.Trailer Brake Control Panel",
+          "proximity": "Close",
+          "position": "Left"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "17.Hood Release",
+      "size": "Medium",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "1.Air Vents",
+          "proximity": "Moderate",
+          "position": "Above-Left"
+        },
+        {
+          "target": "2.Turn Signal Lever",
+          "proximity": "Far",
+          "position": "Above-Left"
+        },
+        {
+          "target": "3.Instrument Cluster",
+          "proximity": "Far",
+          "position": "Above"
+        },
+        {
+          "target": "4.ENGINE START/STOP Button",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "5.Infotainment Display",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "6.Infotainment Controls",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "7.Light Sensor",
+          "proximity": "Very Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "8.Climate Control System",
+          "proximity": "Very Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "9.Locking Front Axle",
+          "proximity": "Very Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "10.Shift Lever",
+          "proximity": "Far",
+          "position": "Right"
+        },
+        {
+          "target": "11.Wireless Charging",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "12.Electric Parking Brake",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "13.Transfer Case Knob",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "14.USB Port",
+          "proximity": "Far",
+          "position": "Right"
+        },
+        {
+          "target": "15.Steering Wheel Controls",
+          "proximity": "Moderate",
+          "position": "Above-Right"
+        },
+        {
+          "target": "16.Horn",
+          "proximity": "Moderate",
+          "position": "Above"
+        },
+        {
+          "target": "18.Steering Wheel Adjustment",
+          "proximity": "Close",
+          "position": "Above-Left"
+        },
+        {
+          "target": "19.Cruise Control",
+          "proximity": "Moderate",
+          "position": "Above-Left"
+        },
+        {
+          "target": "20.DataLinkConnector",
+          "proximity": "Close",
+          "position": "Left"
+        },
+        {
+          "target": "21.Instrument Panel Illumination Control",
+          "proximity": "Moderate",
+          "position": "Above-Left"
+        },
+        {
+          "target": "22.Trailer Brake Control Panel",
+          "proximity": "Moderate",
+          "position": "Above-Left"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "18.Steering Wheel Adjustment",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "1.Air Vents",
+          "proximity": "Moderate",
+          "position": "Above-Left"
+        },
+        {
+          "target": "2.Turn Signal Lever",
+          "proximity": "Moderate",
+          "position": "Above-Left"
+        },
+        {
+          "target": "3.Instrument Cluster",
+          "proximity": "Far",
+          "position": "Above"
+        },
+        {
+          "target": "4.ENGINE START/STOP Button",
+          "proximity": "Moderate",
+          "position": "Above-Right"
+        },
+        {
+          "target": "5.Infotainment Display",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "6.Infotainment Controls",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "7.Light Sensor",
+          "proximity": "Very Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "8.Climate Control System",
+          "proximity": "Very Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "9.Locking Front Axle",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "10.Shift Lever",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "11.Wireless Charging",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "12.Electric Parking Brake",
+          "proximity": "Very Far",
+          "position": "Left"
+        },
+        {
+          "target": "13.Transfer Case Knob",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "14.USB Port",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "15.Steering Wheel Controls",
+          "proximity": "Moderate",
+          "position": "Above-Right"
+        },
+        {
+          "target": "16.Horn",
+          "proximity": "Moderate",
+          "position": "Above"
+        },
+        {
+          "target": "17.Hood Release",
+          "proximity": "Close",
+          "position": "Below-Right"
+        },
+        {
+          "target": "19.Cruise Control",
+          "proximity": "Close",
+          "position": "Above-Left"
+        },
+        {
+          "target": "20.DataLinkConnector",
+          "proximity": "Moderate",
+          "position": "Below-Left"
+        },
+        {
+          "target": "21.Instrument Panel Illumination Control",
+          "proximity": "Close",
+          "position": "Left"
+        },
+        {
+          "target": "22.Trailer Brake Control Panel",
+          "proximity": "Close",
+          "position": "Left"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "19.Cruise Control",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Air Vents",
+          "proximity": "Close",
+          "position": "Above-Left"
+        },
+        {
+          "target": "2.Turn Signal Lever",
+          "proximity": "Close",
+          "position": "Above"
+        },
+        {
+          "target": "3.Instrument Cluster",
+          "proximity": "Moderate",
+          "position": "Above-Right"
+        },
+        {
+          "target": "4.ENGINE START/STOP Button",
+          "proximity": "Moderate",
+          "position": "Above-Right"
+        },
+        {
+          "target": "5.Infotainment Display",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "6.Infotainment Controls",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "7.Light Sensor",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "8.Climate Control System",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "9.Locking Front Axle",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "10.Shift Lever",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "11.Wireless Charging",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "12.Electric Parking Brake",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "13.Transfer Case Knob",
+          "proximity": "Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "14.USB Port",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "15.Steering Wheel Controls",
+          "proximity": "Moderate",
+          "position": "Right"
+        },
+        {
+          "target": "16.Horn",
+          "proximity": "Close",
+          "position": "Right"
+        },
+        {
+          "target": "17.Hood Release",
+          "proximity": "Moderate",
+          "position": "Below-Right"
+        },
+        {
+          "target": "18.Steering Wheel Adjustment",
+          "proximity": "Close",
+          "position": "Below-Right"
+        },
+        {
+          "target": "20.DataLinkConnector",
+          "proximity": "Close",
+          "position": "Below-Left"
+        },
+        {
+          "target": "21.Instrument Panel Illumination Control",
+          "proximity": "Close",
+          "position": "Left"
+        },
+        {
+          "target": "22.Trailer Brake Control Panel",
+          "proximity": "Close",
+          "position": "Below-Left"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "20.DataLinkConnector",
+      "size": "Small",
+      "frequency": "Rare",
+      "relationships": [
+        {
+          "target": "1.Air Vents",
+          "proximity": "Moderate",
+          "position": "Above-Left"
+        },
+        {
+          "target": "2.Turn Signal Lever",
+          "proximity": "Far",
+          "position": "Above"
+        },
+        {
+          "target": "3.Instrument Cluster",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "4.ENGINE START/STOP Button",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "5.Infotainment Display",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "6.Infotainment Controls",
+          "proximity": "Very Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "7.Light Sensor",
+          "proximity": "Very Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "8.Climate Control System",
+          "proximity": "Very Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "9.Locking Front Axle",
+          "proximity": "Very Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "10.Shift Lever",
+          "proximity": "Very Far",
+          "position": "Right"
+        },
+        {
+          "target": "11.Wireless Charging",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "12.Electric Parking Brake",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "13.Transfer Case Knob",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "14.USB Port",
+          "proximity": "Very Far",
+          "position": "Right"
+        },
+        {
+          "target": "15.Steering Wheel Controls",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "16.Horn",
+          "proximity": "Moderate",
+          "position": "Above-Right"
+        },
+        {
+          "target": "17.Hood Release",
+          "proximity": "Close",
+          "position": "Right"
+        },
+        {
+          "target": "18.Steering Wheel Adjustment",
+          "proximity": "Moderate",
+          "position": "Above-Right"
+        },
+        {
+          "target": "19.Cruise Control",
+          "proximity": "Close",
+          "position": "Above-Right"
+        },
+        {
+          "target": "21.Instrument Panel Illumination Control",
+          "proximity": "Close",
+          "position": "Above-Left"
+        },
+        {
+          "target": "22.Trailer Brake Control Panel",
+          "proximity": "Close",
+          "position": "Above-Left"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "21.Instrument Panel Illumination Control",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Air Vents",
+          "proximity": "Close",
+          "position": "Above-Left"
+        },
+        {
+          "target": "2.Turn Signal Lever",
+          "proximity": "Close",
+          "position": "Above"
+        },
+        {
+          "target": "3.Instrument Cluster",
+          "proximity": "Moderate",
+          "position": "Above-Right"
+        },
+        {
+          "target": "4.ENGINE START/STOP Button",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "5.Infotainment Display",
+          "proximity": "Very Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "6.Infotainment Controls",
+          "proximity": "Very Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "7.Light Sensor",
+          "proximity": "Very Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "8.Climate Control System",
+          "proximity": "Very Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "9.Locking Front Axle",
+          "proximity": "Very Far",
+          "position": "Right"
+        },
+        {
+          "target": "10.Shift Lever",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "11.Wireless Charging",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "12.Electric Parking Brake",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "13.Transfer Case Knob",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "14.USB Port",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "15.Steering Wheel Controls",
+          "proximity": "Moderate",
+          "position": "Right"
+        },
+        {
+          "target": "16.Horn",
+          "proximity": "Close",
+          "position": "Right"
+        },
+        {
+          "target": "17.Hood Release",
+          "proximity": "Moderate",
+          "position": "Below-Right"
+        },
+        {
+          "target": "18.Steering Wheel Adjustment",
+          "proximity": "Close",
+          "position": "Right"
+        },
+        {
+          "target": "19.Cruise Control",
+          "proximity": "Close",
+          "position": "Right"
+        },
+        {
+          "target": "20.DataLinkConnector",
+          "proximity": "Close",
+          "position": "Below-Right"
+        },
+        {
+          "target": "22.Trailer Brake Control Panel",
+          "proximity": "Adjacent",
+          "position": "Below-Left"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "22.Trailer Brake Control Panel",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Air Vents",
+          "proximity": "Close",
+          "position": "Above"
+        },
+        {
+          "target": "2.Turn Signal Lever",
+          "proximity": "Close",
+          "position": "Above-Right"
+        },
+        {
+          "target": "3.Instrument Cluster",
+          "proximity": "Moderate",
+          "position": "Above-Right"
+        },
+        {
+          "target": "4.ENGINE START/STOP Button",
+          "proximity": "Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "5.Infotainment Display",
+          "proximity": "Very Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "6.Infotainment Controls",
+          "proximity": "Very Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "7.Light Sensor",
+          "proximity": "Very Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "8.Climate Control System",
+          "proximity": "Very Far",
+          "position": "Above-Right"
+        },
+        {
+          "target": "9.Locking Front Axle",
+          "proximity": "Very Far",
+          "position": "Right"
+        },
+        {
+          "target": "10.Shift Lever",
+          "proximity": "Very Far",
+          "position": "Right"
+        },
+        {
+          "target": "11.Wireless Charging",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "12.Electric Parking Brake",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "13.Transfer Case Knob",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "14.USB Port",
+          "proximity": "Very Far",
+          "position": "Below-Right"
+        },
+        {
+          "target": "15.Steering Wheel Controls",
+          "proximity": "Moderate",
+          "position": "Above-Right"
+        },
+        {
+          "target": "16.Horn",
+          "proximity": "Close",
+          "position": "Right"
+        },
+        {
+          "target": "17.Hood Release",
+          "proximity": "Moderate",
+          "position": "Below-Right"
+        },
+        {
+          "target": "18.Steering Wheel Adjustment",
+          "proximity": "Close",
+          "position": "Right"
+        },
+        {
+          "target": "19.Cruise Control",
+          "proximity": "Close",
+          "position": "Above-Right"
+        },
+        {
+          "target": "20.DataLinkConnector",
+          "proximity": "Close",
+          "position": "Below-Right"
+        },
+        {
+          "target": "21.Instrument Panel Illumination Control",
+          "proximity": "Adjacent",
+          "position": "Above-Right"
+        }
+      ]
+    }
+  ]
+}

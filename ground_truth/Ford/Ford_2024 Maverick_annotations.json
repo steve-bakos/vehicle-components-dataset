@@ -1,0 +1,114 @@
+{
+  "brand": "Ford",
+  "model": "2024 Maverick",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "A.Instrument Cluster Overview",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "B.Front Passenger Sensing System Indicators",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "C.Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "D.Switching Climate Control On and Off",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "B.Front Passenger Sensing System Indicators, D.Switching Climate Control On and Off, C.Glove Compartment"
+    },
+    {
+      "id": 2,
+      "text": "B.Front Passenger Sensing System Indicators",
+      "size": "Small",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "C.Glove Compartment",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "D.Switching Climate Control On and Off",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "A.Instrument Cluster Overview, C.Glove Compartment, D.Switching Climate Control On and Off"
+    },
+    {
+      "id": 3,
+      "text": "C.Glove Compartment",
+      "size": "Very Large",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "B.Front Passenger Sensing System Indicators",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "D.Switching Climate Control On and Off",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "B.Front Passenger Sensing System Indicators, A.Instrument Cluster Overview, D.Switching Climate Control On and Off"
+    },
+    {
+      "id": 4,
+      "text": "D.Switching Climate Control On and Off",
+      "size": "Medium",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "B.Front Passenger Sensing System Indicators",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "C.Glove Compartment",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "A.Instrument Cluster Overview, B.Front Passenger Sensing System Indicators, C.Glove Compartment"
+    }
+  ]
+}

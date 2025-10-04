@@ -1,0 +1,414 @@
+{
+  "brand": "Lincoln",
+  "model": "2024 Navigator",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "A.Instrument Cluster Overview",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "B.Push Button Ignition Switch",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "C.Status Bar",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "D.Switching the 360 Degree Camera On and Off",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Switching Climate Control On and Off",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Shifting Your Vehicle Into Gear",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "C.Status Bar, B.Push Button Ignition Switch, H.Shifting Your Vehicle Into Gear"
+    },
+    {
+      "id": 2,
+      "text": "B.Push Button Ignition Switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "C.Status Bar",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "D.Switching the 360 Degree Camera On and Off",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Switching the Hazard Flashers On and Off",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Switching Climate Control On and Off",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Shifting Your Vehicle Into Gear",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "C.Status Bar, H.Shifting Your Vehicle Into Gear, A.Instrument Cluster Overview"
+    },
+    {
+      "id": 3,
+      "text": "C.Status Bar",
+      "size": "Very Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "B.Push Button Ignition Switch",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "D.Switching the 360 Degree Camera On and Off",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Switching the Hazard Flashers On and Off",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "G.Switching Climate Control On and Off",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "H.Shifting Your Vehicle Into Gear",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        }
+      ],
+      "landmarks": "A.Instrument Cluster Overview, D.Switching the 360 Degree Camera On and Off, B.Push Button Ignition Switch"
+    },
+    {
+      "id": 4,
+      "text": "D.Switching the 360 Degree Camera On and Off",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Push Button Ignition Switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "C.Status Bar",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Switching the Hazard Flashers On and Off",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "G.Switching Climate Control On and Off",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "H.Shifting Your Vehicle Into Gear",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "C.Status Bar, F.Switching the Hazard Flashers On and Off, B.Push Button Ignition Switch"
+    },
+    {
+      "id": 5,
+      "text": "E.Opening the Glove Compartment",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Push Button Ignition Switch",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Status Bar",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "D.Switching the 360 Degree Camera On and Off",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "F.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "G.Switching Climate Control On and Off",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "H.Shifting Your Vehicle Into Gear",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "C.Status Bar, G.Switching Climate Control On and Off, H.Shifting Your Vehicle Into Gear"
+    },
+    {
+      "id": 6,
+      "text": "F.Switching the Hazard Flashers On and Off",
+      "size": "Small",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Push Button Ignition Switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Status Bar",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "D.Switching the 360 Degree Camera On and Off",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Switching Climate Control On and Off",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "H.Shifting Your Vehicle Into Gear",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "D.Switching the 360 Degree Camera On and Off, G.Switching Climate Control On and Off, H.Shifting Your Vehicle Into Gear"
+    },
+    {
+      "id": 7,
+      "text": "G.Switching Climate Control On and Off",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Push Button Ignition Switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Status Bar",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "D.Switching the 360 Degree Camera On and Off",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "F.Switching the Hazard Flashers On and Off",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "H.Shifting Your Vehicle Into Gear",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "F.Switching the Hazard Flashers On and Off, H.Shifting Your Vehicle Into Gear, E.Opening the Glove Compartment"
+    },
+    {
+      "id": 8,
+      "text": "H.Shifting Your Vehicle Into Gear",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Push Button Ignition Switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Status Bar",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "D.Switching the 360 Degree Camera On and Off",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Switching the Hazard Flashers On and Off",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "G.Switching Climate Control On and Off",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "C.Status Bar, G.Switching Climate Control On and Off, F.Switching the Hazard Flashers On and Off"
+    }
+  ]
+}

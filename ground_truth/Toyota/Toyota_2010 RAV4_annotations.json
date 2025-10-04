@@ -1,0 +1,1224 @@
+{
+  "brand": "Toyota",
+  "model": "2010 RAV4",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "1.Horn",
+      "size": "Large",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "2.Gauges and meters",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Four-wheel drive lock switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Audio system",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Navigation system",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Emergency flasher switch",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "11.Hood release lever",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "12.Tilt and telescopic steering lock release lever",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "13.Windshield wiper and washer switch",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "14.Rear window wiper and washer switch",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "2.Gauges and meters, 12.Tilt and telescopic steering lock release lever, 3.Headlight switch"
+    },
+    {
+      "id": 2,
+      "text": "2.Gauges and meters",
+      "size": "Very Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "1.Horn",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Four-wheel drive lock switch",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Audio system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Navigation system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Emergency flasher switch",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "11.Hood release lever",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "12.Tilt and telescopic steering lock release lever",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "13.Windshield wiper and washer switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "14.Rear window wiper and washer switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "3.Headlight switch, 13.Windshield wiper and washer switch, 1.Horn"
+    },
+    {
+      "id": 3,
+      "text": "3.Headlight switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Horn",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "2.Gauges and meters",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": true
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "6.Four-wheel drive lock switch",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Audio system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Navigation system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Emergency flasher switch",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "11.Hood release lever",
+          "proximity": "Very Far",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "12.Tilt and telescopic steering lock release lever",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "13.Windshield wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "14.Rear window wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "2.Gauges and meters, 11.Hood release lever, 4.Turn signal lever"
+    },
+    {
+      "id": 4,
+      "text": "4.Turn signal lever",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Horn",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "2.Gauges and meters",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": true
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "6.Four-wheel drive lock switch",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Audio system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Navigation system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Emergency flasher switch",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "11.Hood release lever",
+          "proximity": "Very Far",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "12.Tilt and telescopic steering lock release lever",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "13.Windshield wiper and washer switch",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "14.Rear window wiper and washer switch",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "2.Gauges and meters, 11.Hood release lever, 3.Headlight switch"
+    },
+    {
+      "id": 5,
+      "text": "5.Fog light switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Horn",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "2.Gauges and meters",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": true
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        },
+        {
+          "target": "6.Four-wheel drive lock switch",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Audio system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Navigation system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Emergency flasher switch",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "11.Hood release lever",
+          "proximity": "Very Far",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "12.Tilt and telescopic steering lock release lever",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "13.Windshield wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "14.Rear window wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "2.Gauges and meters, 11.Hood release lever, 3.Headlight switch"
+    },
+    {
+      "id": 6,
+      "text": "6.Four-wheel drive lock switch",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "1.Horn",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Gauges and meters",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "7.Audio system",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "8.Navigation system",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Emergency flasher switch",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "11.Hood release lever",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "12.Tilt and telescopic steering lock release lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Windshield wiper and washer switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "14.Rear window wiper and washer switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "2.Gauges and meters, 13.Windshield wiper and washer switch, 7.Audio system"
+    },
+    {
+      "id": 7,
+      "text": "7.Audio system",
+      "size": "Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "1.Horn",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Gauges and meters",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Four-wheel drive lock switch",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "8.Navigation system",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": true
+        },
+        {
+          "target": "9.Emergency flasher switch",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "10.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "11.Hood release lever",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "12.Tilt and telescopic steering lock release lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Windshield wiper and washer switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "14.Rear window wiper and washer switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "2.Gauges and meters, 8.Navigation system, 9.Emergency flasher switch"
+    },
+    {
+      "id": 8,
+      "text": "8.Navigation system",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "1.Horn",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Gauges and meters",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Four-wheel drive lock switch",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "7.Audio system",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": true
+        },
+        {
+          "target": "9.Emergency flasher switch",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "11.Hood release lever",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "12.Tilt and telescopic steering lock release lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "13.Windshield wiper and washer switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "14.Rear window wiper and washer switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "7.Audio system, 6.Four-wheel drive lock switch, 11.Hood release lever"
+    },
+    {
+      "id": 9,
+      "text": "9.Emergency flasher switch",
+      "size": "Small",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "1.Horn",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Gauges and meters",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Four-wheel drive lock switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "7.Audio system",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "8.Navigation system",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "10.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "11.Hood release lever",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "12.Tilt and telescopic steering lock release lever",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "13.Windshield wiper and washer switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "14.Rear window wiper and washer switch",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "7.Audio system, 8.Navigation system, 12.Tilt and telescopic steering lock release lever"
+    },
+    {
+      "id": 10,
+      "text": "10.Fuel filler door opener",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "1.Horn",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "2.Gauges and meters",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Very Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Very Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Very Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "6.Four-wheel drive lock switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Audio system",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Navigation system",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Emergency flasher switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "11.Hood release lever",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "12.Tilt and telescopic steering lock release lever",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "13.Windshield wiper and washer switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "14.Rear window wiper and washer switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "11.Hood release lever, 12.Tilt and telescopic steering lock release lever, 1.Horn"
+    },
+    {
+      "id": 11,
+      "text": "11.Hood release lever",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "1.Horn",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "2.Gauges and meters",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Very Far",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Very Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Very Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "6.Four-wheel drive lock switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Audio system",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Navigation system",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Emergency flasher switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Fuel filler door opener",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "12.Tilt and telescopic steering lock release lever",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "13.Windshield wiper and washer switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "14.Rear window wiper and washer switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "3.Headlight switch, 10.Fuel filler door opener, 12.Tilt and telescopic steering lock release lever"
+    },
+    {
+      "id": 12,
+      "text": "12.Tilt and telescopic steering lock release lever",
+      "size": "Medium",
+      "frequency": "Rare",
+      "relationships": [
+        {
+          "target": "1.Horn",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "2.Gauges and meters",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Four-wheel drive lock switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "7.Audio system",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Navigation system",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Emergency flasher switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Fuel filler door opener",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "11.Hood release lever",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "13.Windshield wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "14.Rear window wiper and washer switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "1.Horn, 11.Hood release lever, 2.Gauges and meters"
+    },
+    {
+      "id": 13,
+      "text": "13.Windshield wiper and washer switch",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "1.Horn",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Gauges and meters",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Four-wheel drive lock switch",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "7.Audio system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Navigation system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Emergency flasher switch",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "11.Hood release lever",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "12.Tilt and telescopic steering lock release lever",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "14.Rear window wiper and washer switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        }
+      ],
+      "landmarks": "2.Gauges and meters, 12.Tilt and telescopic steering lock release lever, 6.Four-wheel drive lock switch"
+    },
+    {
+      "id": 14,
+      "text": "14.Rear window wiper and washer switch",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "1.Horn",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "2.Gauges and meters",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "3.Headlight switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "4.Turn signal lever",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "5.Fog light switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "6.Four-wheel drive lock switch",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "7.Audio system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "8.Navigation system",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "9.Emergency flasher switch",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "10.Fuel filler door opener",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "11.Hood release lever",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "12.Tilt and telescopic steering lock release lever",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "13.Windshield wiper and washer switch",
+          "proximity": "Adjacent",
+          "position": "Same Place",
+          "landmark": false
+        }
+      ],
+      "landmarks": "6.Four-wheel drive lock switch, 2.Gauges and meters, 12.Tilt and telescopic steering lock release lever"
+    }
+  ]
+}

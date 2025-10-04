@@ -1,0 +1,636 @@
+{
+  "brand": "Subaru",
+  "model": "2023_wrx",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "Power window switches",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Remote control mirror switch",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Trunk lid opener button",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Remote control mirror switch, Hood release knob, Fuse box"
+    },
+    {
+      "id": 2,
+      "text": "Remote control mirror switch",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Power window switches",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Trunk lid opener button",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Combination meter, Power window switches, Fuse box"
+    },
+    {
+      "id": 3,
+      "text": "Combination meter",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "Power window switches",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Remote control mirror switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener button",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Hazard warning flasher switch, Tilt/Telescopic steering, Remote control mirror switch"
+    },
+    {
+      "id": 4,
+      "text": "Hazard warning flasher switch",
+      "size": "Very Small",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "Power window switches",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Remote control mirror switch",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Trunk lid opener button",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Combination meter, Tilt/Telescopic steering, Remote control mirror switch"
+    },
+    {
+      "id": 5,
+      "text": "Tilt/Telescopic steering",
+      "size": "Medium",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Power window switches",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Remote control mirror switch",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "Trunk lid opener button",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Combination meter, Hood release knob, Fuse box"
+    },
+    {
+      "id": 6,
+      "text": "Hood release knob",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Power window switches",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Remote control mirror switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Trunk lid opener button",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Remote control mirror switch, Fuse box, Tilt/Telescopic steering"
+    },
+    {
+      "id": 7,
+      "text": "Fuse box",
+      "size": "Medium",
+      "frequency": "Rare",
+      "relationships": [
+        {
+          "target": "Power window switches",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Remote control mirror switch",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Trunk lid opener button",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        }
+      ],
+      "landmarks": "Vehicle Dynamics Control OFF switch, Hood release knob, Illumination brightness control dial"
+    },
+    {
+      "id": 8,
+      "text": "Trunk lid opener button",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Power window switches",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Remote control mirror switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Combination meter, Fuse box, Illumination brightness control dial"
+    },
+    {
+      "id": 9,
+      "text": "Illumination brightness control dial",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "Power window switches",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Remote control mirror switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Trunk lid opener button",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "Vehicle Dynamics Control OFF switch",
+          "proximity": "Adjacent",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "Combination meter, Fuse box, Trunk lid opener button"
+    },
+    {
+      "id": 10,
+      "text": "Vehicle Dynamics Control OFF switch",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "Power window switches",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Remote control mirror switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "Combination meter",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hazard warning flasher switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "Tilt/Telescopic steering",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "Hood release knob",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "Fuse box",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "Trunk lid opener button",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "Illumination brightness control dial",
+          "proximity": "Adjacent",
+          "position": "Above-Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "Trunk lid opener button, Fuse box, Illumination brightness control dial"
+    }
+  ]
+}

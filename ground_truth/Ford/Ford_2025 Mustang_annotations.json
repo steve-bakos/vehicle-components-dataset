@@ -1,0 +1,636 @@
+{
+  "brand": "Ford",
+  "model": "2025 Mustang",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "A.Adjusting hte Exterior Mirrors",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "B.Switching Cruise Control On and Off",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "C.Instrument cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Select a Drive Mode",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Center Display Overview",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Favorite",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.My Mustang Overview",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Sitting in the Correct Position",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "J.Exterior Lighting control",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "J.Exterior Lighting control, I.Sitting in the Correct Position, B.Switching Cruise Control On and Off"
+    },
+    {
+      "id": 2,
+      "text": "B.Switching Cruise Control On and Off",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Adjusting hte Exterior Mirrors",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Instrument cluster Overview",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "D.Select a Drive Mode",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "E.Center Display Overview",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Favorite",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.My Mustang Overview",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "J.Exterior Lighting control",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "C.Instrument cluster Overview, J.Exterior Lighting control, D.Select a Drive Mode"
+    },
+    {
+      "id": 3,
+      "text": "C.Instrument cluster Overview",
+      "size": "Very Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "A.Adjusting hte Exterior Mirrors",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Cruise Control On and Off",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "D.Select a Drive Mode",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "E.Center Display Overview",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Favorite",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "H.My Mustang Overview",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "J.Exterior Lighting control",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "E.Center Display Overview, B.Switching Cruise Control On and Off, D.Select a Drive Mode"
+    },
+    {
+      "id": 4,
+      "text": "D.Select a Drive Mode",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Adjusting hte Exterior Mirrors",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Cruise Control On and Off",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "C.Instrument cluster Overview",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "E.Center Display Overview",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Favorite",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.My Mustang Overview",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "I.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "J.Exterior Lighting control",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "C.Instrument cluster Overview, J.Exterior Lighting control, B.Switching Cruise Control On and Off"
+    },
+    {
+      "id": 5,
+      "text": "E.Center Display Overview",
+      "size": "Very Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "A.Adjusting hte Exterior Mirrors",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Cruise Control On and Off",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Instrument cluster Overview",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "D.Select a Drive Mode",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Favorite",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "H.My Mustang Overview",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "I.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "J.Exterior Lighting control",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "C.Instrument cluster Overview, G.Favorite, D.Select a Drive Mode"
+    },
+    {
+      "id": 6,
+      "text": "F.Opening the Glove Compartment",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Adjusting hte Exterior Mirrors",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Cruise Control On and Off",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Instrument cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "D.Select a Drive Mode",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "E.Center Display Overview",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "G.Favorite",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "H.My Mustang Overview",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "I.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "J.Exterior Lighting control",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "E.Center Display Overview, G.Favorite, H.My Mustang Overview"
+    },
+    {
+      "id": 7,
+      "text": "G.Favorite",
+      "size": "Medium",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Adjusting hte Exterior Mirrors",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Cruise Control On and Off",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Instrument cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Select a Drive Mode",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "E.Center Display Overview",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "H.My Mustang Overview",
+          "proximity": "Adjacent",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "I.Sitting in the Correct Position",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "J.Exterior Lighting control",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "E.Center Display Overview, F.Opening the Glove Compartment, H.My Mustang Overview"
+    },
+    {
+      "id": 8,
+      "text": "H.My Mustang Overview",
+      "size": "Medium",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Adjusting hte Exterior Mirrors",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Cruise Control On and Off",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Instrument cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "D.Select a Drive Mode",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Center Display Overview",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Favorite",
+          "proximity": "Adjacent",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "I.Sitting in the Correct Position",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "J.Exterior Lighting control",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "E.Center Display Overview, G.Favorite, I.Sitting in the Correct Position"
+    },
+    {
+      "id": 9,
+      "text": "I.Sitting in the Correct Position",
+      "size": "Very Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Adjusting hte Exterior Mirrors",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "B.Switching Cruise Control On and Off",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Instrument cluster Overview",
+          "proximity": "Very Far",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "D.Select a Drive Mode",
+          "proximity": "Very Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "E.Center Display Overview",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Favorite",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.My Mustang Overview",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "J.Exterior Lighting control",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "A.Adjusting hte Exterior Mirrors, J.Exterior Lighting control, C.Instrument cluster Overview"
+    },
+    {
+      "id": 10,
+      "text": "J.Exterior Lighting control",
+      "size": "Medium",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Adjusting hte Exterior Mirrors",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "B.Switching Cruise Control On and Off",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "C.Instrument cluster Overview",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Select a Drive Mode",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Center Display Overview",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Favorite",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.My Mustang Overview",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "B.Switching Cruise Control On and Off, A.Adjusting hte Exterior Mirrors, I.Sitting in the Correct Position"
+    }
+  ]
+}

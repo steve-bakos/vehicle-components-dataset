@@ -1,0 +1,240 @@
+{
+  "brand": "Lincoln",
+  "model": "2023 Nautilus",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "A.Instrument Cluster Overview",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "B.Feature Bar",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "C.Replacing the Cabin Air Filter",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Shifting Your Vehicle Into Gear",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "E.Applying the Electric Parking Brake",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "F.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "B.Feature Bar, E.Applying the Electric Parking Brake, D.Shifting Your Vehicle Into Gear"
+    },
+    {
+      "id": 2,
+      "text": "B.Feature Bar",
+      "size": "Very Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "C.Replacing the Cabin Air Filter",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "D.Shifting Your Vehicle Into Gear",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "E.Applying the Electric Parking Brake",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "F.Exterior Lighting Control",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "A.Instrument Cluster Overview, C.Replacing the Cabin Air Filter, D.Shifting Your Vehicle Into Gear"
+    },
+    {
+      "id": 3,
+      "text": "C.Replacing the Cabin Air Filter",
+      "size": "Medium",
+      "frequency": "Rare",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Feature Bar",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "D.Shifting Your Vehicle Into Gear",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "E.Applying the Electric Parking Brake",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "F.Exterior Lighting Control",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "B.Feature Bar, E.Applying the Electric Parking Brake, D.Shifting Your Vehicle Into Gear"
+    },
+    {
+      "id": 4,
+      "text": "D.Shifting Your Vehicle Into Gear",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Feature Bar",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "C.Replacing the Cabin Air Filter",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "E.Applying the Electric Parking Brake",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "F.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "B.Feature Bar, C.Replacing the Cabin Air Filter, E.Applying the Electric Parking Brake"
+    },
+    {
+      "id": 5,
+      "text": "E.Applying the Electric Parking Brake",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "B.Feature Bar",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "C.Replacing the Cabin Air Filter",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Shifting Your Vehicle Into Gear",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "F.Exterior Lighting Control",
+          "proximity": "Adjacent",
+          "position": "Above-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "A.Instrument Cluster Overview, D.Shifting Your Vehicle Into Gear, F.Exterior Lighting Control"
+    },
+    {
+      "id": 6,
+      "text": "F.Exterior Lighting Control",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "B.Feature Bar",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "C.Replacing the Cabin Air Filter",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Shifting Your Vehicle Into Gear",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "E.Applying the Electric Parking Brake",
+          "proximity": "Adjacent",
+          "position": "Below-Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "A.Instrument Cluster Overview, E.Applying the Electric Parking Brake, D.Shifting Your Vehicle Into Gear"
+    }
+  ]
+}

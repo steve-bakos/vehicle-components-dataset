@@ -1,0 +1,1059 @@
+{
+  "brand": "Lincoln",
+  "model": "2025 Aviator",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "A.Exterior Lighting Control",
+      "size": "Medium",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "C.Setting Your Default Assistant",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Using the Instrument Cluster Display Controls",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Push Button Ignition Switch",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Center Display Overview",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "K.Opening the Center Console",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "L.Sitting in the Correct Position",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "M.Using the Memory Function",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "B.Switching Adaptive Cruise Control On and Off, L.Sitting in the Correct Position, M.Using the Memory Function"
+    },
+    {
+      "id": 2,
+      "text": "B.Switching Adaptive Cruise Control On and Off",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "C.Setting Your Default Assistant",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "D.Instrument Cluster Overview",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Using the Instrument Cluster Display Controls",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "F.Push Button Ignition Switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Center Display Overview",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "K.Opening the Center Console",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "L.Sitting in the Correct Position",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "M.Using the Memory Function",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "C.Setting Your Default Assistant, A.Exterior Lighting Control, E.Using the Instrument Cluster Display Controls"
+    },
+    {
+      "id": 3,
+      "text": "C.Setting Your Default Assistant",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "D.Instrument Cluster Overview",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "E.Using the Instrument Cluster Display Controls",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "F.Push Button Ignition Switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Center Display Overview",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "K.Opening the Center Console",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "L.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "M.Using the Memory Function",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "D.Instrument Cluster Overview, B.Switching Adaptive Cruise Control On and Off, E.Using the Instrument Cluster Display Controls"
+    },
+    {
+      "id": 4,
+      "text": "D.Instrument Cluster Overview",
+      "size": "Very Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "C.Setting Your Default Assistant",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "E.Using the Instrument Cluster Display Controls",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "F.Push Button Ignition Switch",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Center Display Overview",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "K.Opening the Center Console",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "L.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "M.Using the Memory Function",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "C.Setting Your Default Assistant, L.Sitting in the Correct Position, B.Switching Adaptive Cruise Control On and Off"
+    },
+    {
+      "id": 5,
+      "text": "E.Using the Instrument Cluster Display Controls",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Setting Your Default Assistant",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "D.Instrument Cluster Overview",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "F.Push Button Ignition Switch",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Center Display Overview",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "I.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "K.Opening the Center Console",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "L.Sitting in the Correct Position",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "M.Using the Memory Function",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "D.Instrument Cluster Overview, L.Sitting in the Correct Position, H.Center Display Overview"
+    },
+    {
+      "id": 6,
+      "text": "F.Push Button Ignition Switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Setting Your Default Assistant",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "D.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "E.Using the Instrument Cluster Display Controls",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "G.Opening the Glove Compartment",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "H.Center Display Overview",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "I.Switching the Hazard Flashers On and Off",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "K.Opening the Center Console",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "L.Sitting in the Correct Position",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "M.Using the Memory Function",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "H.Center Display Overview, I.Switching the Hazard Flashers On and Off, G.Opening the Glove Compartment"
+    },
+    {
+      "id": 7,
+      "text": "G.Opening the Glove Compartment",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Setting Your Default Assistant",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "D.Instrument Cluster Overview",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "E.Using the Instrument Cluster Display Controls",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "F.Push Button Ignition Switch",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "H.Center Display Overview",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "I.Switching the Hazard Flashers On and Off",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "K.Opening the Center Console",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "L.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "M.Using the Memory Function",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "H.Center Display Overview, K.Opening the Center Console, F.Push Button Ignition Switch"
+    },
+    {
+      "id": 8,
+      "text": "H.Center Display Overview",
+      "size": "Very Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Setting Your Default Assistant",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "D.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "E.Using the Instrument Cluster Display Controls",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "F.Push Button Ignition Switch",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "G.Opening the Glove Compartment",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Switching the Hazard Flashers On and Off",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "K.Opening the Center Console",
+          "proximity": "Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "L.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "M.Using the Memory Function",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "D.Instrument Cluster Overview, F.Push Button Ignition Switch, E.Using the Instrument Cluster Display Controls"
+    },
+    {
+      "id": 9,
+      "text": "I.Switching the Hazard Flashers On and Off",
+      "size": "Small",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "C.Setting Your Default Assistant",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "D.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "E.Using the Instrument Cluster Display Controls",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "F.Push Button Ignition Switch",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "G.Opening the Glove Compartment",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "H.Center Display Overview",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Adjacent",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "K.Opening the Center Console",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "L.Sitting in the Correct Position",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "M.Using the Memory Function",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "F.Push Button Ignition Switch, J.Switching the Audio Unit On and Off, G.Opening the Glove Compartment"
+    },
+    {
+      "id": 10,
+      "text": "J.Switching the Audio Unit On and Off",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Setting Your Default Assistant",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "D.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "E.Using the Instrument Cluster Display Controls",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "F.Push Button Ignition Switch",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "G.Opening the Glove Compartment",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Center Display Overview",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "I.Switching the Hazard Flashers On and Off",
+          "proximity": "Adjacent",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "K.Opening the Center Console",
+          "proximity": "Moderate",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "L.Sitting in the Correct Position",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "M.Using the Memory Function",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "F.Push Button Ignition Switch, K.Opening the Center Console, I.Switching the Hazard Flashers On and Off"
+    },
+    {
+      "id": 11,
+      "text": "K.Opening the Center Console",
+      "size": "Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Setting Your Default Assistant",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "D.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "E.Using the Instrument Cluster Display Controls",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "F.Push Button Ignition Switch",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "G.Opening the Glove Compartment",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "H.Center Display Overview",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "I.Switching the Hazard Flashers On and Off",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Moderate",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "L.Sitting in the Correct Position",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "M.Using the Memory Function",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "I.Switching the Hazard Flashers On and Off, L.Sitting in the Correct Position, G.Opening the Glove Compartment"
+    },
+    {
+      "id": 12,
+      "text": "L.Sitting in the Correct Position",
+      "size": "Very Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "C.Setting Your Default Assistant",
+          "proximity": "Very Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "D.Instrument Cluster Overview",
+          "proximity": "Very Far",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "E.Using the Instrument Cluster Display Controls",
+          "proximity": "Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "F.Push Button Ignition Switch",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Center Display Overview",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "K.Opening the Center Console",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "M.Using the Memory Function",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "D.Instrument Cluster Overview, M.Using the Memory Function, K.Opening the Center Console"
+    },
+    {
+      "id": 13,
+      "text": "M.Using the Memory Function",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "C.Setting Your Default Assistant",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Using the Instrument Cluster Display Controls",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Push Button Ignition Switch",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Center Display Overview",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Switching the Hazard Flashers On and Off",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "J.Switching the Audio Unit On and Off",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "K.Opening the Center Console",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "L.Sitting in the Correct Position",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "B.Switching Adaptive Cruise Control On and Off, L.Sitting in the Correct Position, A.Exterior Lighting Control"
+    }
+  ]
+}

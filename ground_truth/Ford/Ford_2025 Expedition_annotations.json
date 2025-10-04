@@ -1,0 +1,519 @@
+{
+  "brand": "Ford",
+  "model": "2025 Expedition",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "A.Adjusting the Exterior Mirrors",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "C.Instrument cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Using the Controls on the Steering Wheel",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Center Display Overview",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Switching the Hazard Flashers On and Off",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Sitting in the Correct Position",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "I.Selecting a Drive Mode - 4x4",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "B.Switching Adaptive Cruise Control On and Off, H.Sitting in the Correct Position, I.Selecting a Drive Mode - 4x4"
+    },
+    {
+      "id": 2,
+      "text": "B.Switching Adaptive Cruise Control On and Off",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Adjusting the Exterior Mirrors",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Instrument cluster Overview",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "D.Using the Controls on the Steering Wheel",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Center Display Overview",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Switching the Hazard Flashers On and Off",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "I.Selecting a Drive Mode - 4x4",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "C.Instrument cluster Overview, I.Selecting a Drive Mode - 4x4, D.Using the Controls on the Steering Wheel"
+    },
+    {
+      "id": 3,
+      "text": "C.Instrument cluster Overview",
+      "size": "Very Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "A.Adjusting the Exterior Mirrors",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "D.Using the Controls on the Steering Wheel",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Center Display Overview",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "I.Selecting a Drive Mode - 4x4",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "I.Selecting a Drive Mode - 4x4, B.Switching Adaptive Cruise Control On and Off, D.Using the Controls on the Steering Wheel"
+    },
+    {
+      "id": 4,
+      "text": "D.Using the Controls on the Steering Wheel",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Adjusting the Exterior Mirrors",
+          "proximity": "Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Instrument cluster Overview",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Center Display Overview",
+          "proximity": "Moderate",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "G.Switching the Hazard Flashers On and Off",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "I.Selecting a Drive Mode - 4x4",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "C.Instrument cluster Overview, I.Selecting a Drive Mode - 4x4, F.Center Display Overview"
+    },
+    {
+      "id": 5,
+      "text": "E.Opening the Glove Compartment",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Adjusting the Exterior Mirrors",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Instrument cluster Overview",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "D.Using the Controls on the Steering Wheel",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "F.Center Display Overview",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "G.Switching the Hazard Flashers On and Off",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "H.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "I.Selecting a Drive Mode - 4x4",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "F.Center Display Overview, G.Switching the Hazard Flashers On and Off, C.Instrument cluster Overview"
+    },
+    {
+      "id": 6,
+      "text": "F.Center Display Overview",
+      "size": "Very Large",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Adjusting the Exterior Mirrors",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Instrument cluster Overview",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "D.Using the Controls on the Steering Wheel",
+          "proximity": "Moderate",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Switching the Hazard Flashers On and Off",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "H.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "I.Selecting a Drive Mode - 4x4",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "C.Instrument cluster Overview, G.Switching the Hazard Flashers On and Off, D.Using the Controls on the Steering Wheel"
+    },
+    {
+      "id": 7,
+      "text": "G.Switching the Hazard Flashers On and Off",
+      "size": "Small",
+      "frequency": "Emergency",
+      "relationships": [
+        {
+          "target": "A.Adjusting the Exterior Mirrors",
+          "proximity": "Very Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Instrument cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "D.Using the Controls on the Steering Wheel",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "F.Center Display Overview",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "H.Sitting in the Correct Position",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "I.Selecting a Drive Mode - 4x4",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "F.Center Display Overview, I.Selecting a Drive Mode - 4x4, E.Opening the Glove Compartment"
+    },
+    {
+      "id": 8,
+      "text": "H.Sitting in the Correct Position",
+      "size": "Very Large",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "A.Adjusting the Exterior Mirrors",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Very Far",
+          "position": "Above",
+          "landmark": false
+        },
+        {
+          "target": "C.Instrument cluster Overview",
+          "proximity": "Very Far",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "D.Using the Controls on the Steering Wheel",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Center Display Overview",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Switching the Hazard Flashers On and Off",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "I.Selecting a Drive Mode - 4x4",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "C.Instrument cluster Overview, A.Adjusting the Exterior Mirrors, I.Selecting a Drive Mode - 4x4"
+    },
+    {
+      "id": 9,
+      "text": "I.Selecting a Drive Mode - 4x4",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "A.Adjusting the Exterior Mirrors",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "B.Switching Adaptive Cruise Control On and Off",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "C.Instrument cluster Overview",
+          "proximity": "Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Using the Controls on the Steering Wheel",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Opening the Glove Compartment",
+          "proximity": "Very Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Center Display Overview",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Switching the Hazard Flashers On and Off",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "H.Sitting in the Correct Position",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "B.Switching Adaptive Cruise Control On and Off, H.Sitting in the Correct Position, A.Adjusting the Exterior Mirrors"
+    }
+  ]
+}

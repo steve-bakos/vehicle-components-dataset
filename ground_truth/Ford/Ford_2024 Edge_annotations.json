@@ -1,0 +1,414 @@
+{
+  "brand": "Ford",
+  "model": "2024 Edge",
+  "legend_items": [
+    {
+      "id": 1,
+      "text": "A.Exterior Lighting Control",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "B.Instrument Cluster Overview",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "C.Center Display Overview",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Replacing the Cabin Air Filter",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Selecting an FM Radio Station",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Front Passenger Sensing System Indicators",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Push Button Ignition Switch",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "H.Locating the Body Control Module Fuse Box",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": true
+        }
+      ],
+      "landmarks": "B.Instrument Cluster Overview, H.Locating the Body Control Module Fuse Box, G.Push Button Ignition Switch"
+    },
+    {
+      "id": 2,
+      "text": "B.Instrument Cluster Overview",
+      "size": "Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "C.Center Display Overview",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "D.Replacing the Cabin Air Filter",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Selecting an FM Radio Station",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Front Passenger Sensing System Indicators",
+          "proximity": "Very Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Push Button Ignition Switch",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "H.Locating the Body Control Module Fuse Box",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": true
+        }
+      ],
+      "landmarks": "C.Center Display Overview, H.Locating the Body Control Module Fuse Box, A.Exterior Lighting Control"
+    },
+    {
+      "id": 3,
+      "text": "C.Center Display Overview",
+      "size": "Very Large",
+      "frequency": "Constant",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Instrument Cluster Overview",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "D.Replacing the Cabin Air Filter",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "E.Selecting an FM Radio Station",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "F.Front Passenger Sensing System Indicators",
+          "proximity": "Close",
+          "position": "Below",
+          "landmark": false
+        },
+        {
+          "target": "G.Push Button Ignition Switch",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "H.Locating the Body Control Module Fuse Box",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "G.Push Button Ignition Switch, D.Replacing the Cabin Air Filter, E.Selecting an FM Radio Station"
+    },
+    {
+      "id": 4,
+      "text": "D.Replacing the Cabin Air Filter",
+      "size": "Small",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Instrument Cluster Overview",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Center Display Overview",
+          "proximity": "Close",
+          "position": "Left",
+          "landmark": true
+        },
+        {
+          "target": "E.Selecting an FM Radio Station",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": true
+        },
+        {
+          "target": "F.Front Passenger Sensing System Indicators",
+          "proximity": "Close",
+          "position": "Below-Left",
+          "landmark": false
+        },
+        {
+          "target": "G.Push Button Ignition Switch",
+          "proximity": "Moderate",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "H.Locating the Body Control Module Fuse Box",
+          "proximity": "Very Far",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "C.Center Display Overview, G.Push Button Ignition Switch, E.Selecting an FM Radio Station"
+    },
+    {
+      "id": 5,
+      "text": "E.Selecting an FM Radio Station",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Instrument Cluster Overview",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Center Display Overview",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "D.Replacing the Cabin Air Filter",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Front Passenger Sensing System Indicators",
+          "proximity": "Adjacent",
+          "position": "Below",
+          "landmark": true
+        },
+        {
+          "target": "G.Push Button Ignition Switch",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "H.Locating the Body Control Module Fuse Box",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "C.Center Display Overview, F.Front Passenger Sensing System Indicators, G.Push Button Ignition Switch"
+    },
+    {
+      "id": 6,
+      "text": "F.Front Passenger Sensing System Indicators",
+      "size": "Very Small",
+      "frequency": "Rare",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Instrument Cluster Overview",
+          "proximity": "Very Far",
+          "position": "Above-Left",
+          "landmark": false
+        },
+        {
+          "target": "C.Center Display Overview",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "D.Replacing the Cabin Air Filter",
+          "proximity": "Close",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Selecting an FM Radio Station",
+          "proximity": "Adjacent",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "G.Push Button Ignition Switch",
+          "proximity": "Close",
+          "position": "Above-Left",
+          "landmark": true
+        },
+        {
+          "target": "H.Locating the Body Control Module Fuse Box",
+          "proximity": "Far",
+          "position": "Above-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "G.Push Button Ignition Switch, E.Selecting an FM Radio Station, C.Center Display Overview"
+    },
+    {
+      "id": 7,
+      "text": "G.Push Button Ignition Switch",
+      "size": "Small",
+      "frequency": "Frequent",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Far",
+          "position": "Left",
+          "landmark": false
+        },
+        {
+          "target": "B.Instrument Cluster Overview",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "C.Center Display Overview",
+          "proximity": "Close",
+          "position": "Right",
+          "landmark": true
+        },
+        {
+          "target": "D.Replacing the Cabin Air Filter",
+          "proximity": "Moderate",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Selecting an FM Radio Station",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Front Passenger Sensing System Indicators",
+          "proximity": "Close",
+          "position": "Below-Right",
+          "landmark": true
+        },
+        {
+          "target": "H.Locating the Body Control Module Fuse Box",
+          "proximity": "Moderate",
+          "position": "Below-Left",
+          "landmark": false
+        }
+      ],
+      "landmarks": "B.Instrument Cluster Overview, F.Front Passenger Sensing System Indicators, C.Center Display Overview"
+    },
+    {
+      "id": 8,
+      "text": "H.Locating the Body Control Module Fuse Box",
+      "size": "Medium",
+      "frequency": "Occasional",
+      "relationships": [
+        {
+          "target": "A.Exterior Lighting Control",
+          "proximity": "Close",
+          "position": "Above",
+          "landmark": true
+        },
+        {
+          "target": "B.Instrument Cluster Overview",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        },
+        {
+          "target": "C.Center Display Overview",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "D.Replacing the Cabin Air Filter",
+          "proximity": "Very Far",
+          "position": "Above-Right",
+          "landmark": false
+        },
+        {
+          "target": "E.Selecting an FM Radio Station",
+          "proximity": "Far",
+          "position": "Right",
+          "landmark": false
+        },
+        {
+          "target": "F.Front Passenger Sensing System Indicators",
+          "proximity": "Far",
+          "position": "Below-Right",
+          "landmark": false
+        },
+        {
+          "target": "G.Push Button Ignition Switch",
+          "proximity": "Moderate",
+          "position": "Above-Right",
+          "landmark": true
+        }
+      ],
+      "landmarks": "A.Exterior Lighting Control, B.Instrument Cluster Overview, G.Push Button Ignition Switch"
+    }
+  ]
+}
